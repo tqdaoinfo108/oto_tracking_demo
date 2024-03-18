@@ -466,7 +466,7 @@ w=B.bA(new B.cM(D.ah,p,D.ak,D.y,B.b([C.Ld,B.nY(0,new B.ab(D.cH,B.O_(q.f,p,q.r,v,
 v=A.aX2("Tint color","the color/tint overlay layer.")
 t=q.w
 s=y.G
-r=B.b([K.fo(B.aW(B.b([q.nq(n),Q.bR,C.aTC],u),D.n,p,D.i,D.o,p,p,D.j),n,s),K.fo(B.aW(B.b([q.nq(D.p),Q.bR,I.Kz],u),D.n,p,D.i,D.o,p,p,D.j),D.p,s),K.fo(B.aW(B.b([q.nq(D.dP),Q.bR,I.Ks],u),D.n,p,D.i,D.o,p,p,D.j),D.dP,s)],y.u)
+r=B.b([K.fo(B.aW(B.b([q.nq(n),Q.bR,C.aTC],u),D.n,p,D.i,D.o,p,p,D.j),n,s),K.fo(B.aW(B.b([q.nq(D.p),Q.bR,I.Kz],u),D.n,p,D.i,D.o,p,p,D.j),D.p,s),K.fo(B.aW(B.b([q.nq(D.dQ),Q.bR,I.Ks],u),D.n,p,D.i,D.o,p,p,D.j),D.dQ,s)],y.u)
 $.jO()
 D.b.K(r,B.fb(8,new A.az4(q),!0,y.d))
 v=A.aVA(K.j4(!1,p,8,p,p,V.be,p,p,8,!1,r,p,new A.az5(q),p,C.aSX,p,p,p,t,s),v)
@@ -483,26 +483,26 @@ A.abc.prototype={}
 A.pk.prototype={
 P(){return A.bgl()}}
 A.a2A.prototype={
-v(c3){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2=this,b3=null,b4=b2.d,b5=y.e,b6=L.mm(E.eu(b3,D.A,b3,D.ab,F.cg,D.ab,B.X(b4,!0,b5),F.aX),C.aVg),b7=b2.aR(C.aSZ),b8=E.eu(b3,D.A,b3,D.i,F.dQ,D.ab,B.X(b4,!0,b5),F.aX),b9=b2.aR(C.aTr),c0=E.eu(b3,D.N,b3,D.i,F.dQ,D.ab,B.X(b4,!0,b5),F.aX),c1=b2.aR(C.aTR),c2=B.X(b4,!0,b5)
+v(c3){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2=this,b3=null,b4=b2.d,b5=y.e,b6=L.mm(E.ev(b3,D.A,b3,D.ab,F.cg,D.ab,B.X(b4,!0,b5),F.aX),C.aVg),b7=b2.aR(C.aSZ),b8=E.ev(b3,D.A,b3,D.i,F.dR,D.ab,B.X(b4,!0,b5),F.aX),b9=b2.aR(C.aTr),c0=E.ev(b3,D.N,b3,D.i,F.dR,D.ab,B.X(b4,!0,b5),F.aX),c1=b2.aR(C.aTR),c2=B.X(b4,!0,b5)
 c2.push(C.bl)
 x=b2.e
 D.b.K(c2,x)
-c2=E.eu(600,D.A,b3,D.i,F.it,D.ab,c2,F.aX)
+c2=E.ev(600,D.A,b3,D.i,F.it,D.ab,c2,F.aX)
 w=b2.aR(C.aTy)
 v=B.X(b4,!0,b5)
 v.push(C.m0)
 D.b.K(v,x)
-v=E.eu(600,D.N,b3,D.i,F.it,D.ab,v,F.aX)
+v=E.ev(600,D.N,b3,D.i,F.it,D.ab,v,F.aX)
 u=b2.aR(C.aVA)
 t=B.X(b4,!0,b5)
 t.push(C.bl)
 D.b.K(t,x)
-t=A.t_(E.eu(b3,D.A,!0,D.i,F.r3,D.ab,t,F.aX))
+t=A.t_(E.ev(b3,D.A,!0,D.i,F.r3,D.ab,t,F.aX))
 s=b2.aR(C.aS9)
 r=B.X(b4,!0,b5)
 r.push(C.bl)
 D.b.K(r,x)
-r=A.t_(E.eu(b3,D.N,!0,D.i,F.r3,D.ab,r,F.aX))
+r=A.t_(E.ev(b3,D.N,!0,D.i,F.r3,D.ab,r,F.aX))
 q=b2.aR(C.aU_)
 p=B.X(b4,!0,b5)
 p.push(C.bl)
@@ -510,64 +510,64 @@ D.b.K(p,x)
 p.push(C.bl)
 o=b2.f
 D.b.K(p,o)
-p=A.t_(E.eu(b3,D.A,b3,D.i,F.cg,D.ab,p,F.aX))
+p=A.t_(E.ev(b3,D.A,b3,D.i,F.cg,D.ab,p,F.aX))
 n=b2.aR(C.aUd)
 m=B.X(b4,!0,b5)
 m.push(C.bl)
 D.b.K(m,x)
 m.push(C.bl)
 D.b.K(m,o)
-m=A.t_(E.eu(b3,D.N,b3,D.i,F.cg,D.ab,m,F.aX))
+m=A.t_(E.ev(b3,D.N,b3,D.i,F.cg,D.ab,m,F.aX))
 l=b2.aR(C.aUm)
 k=B.X(b4,!0,b5)
 k.push(C.bl)
 D.b.K(k,x)
 k.push(C.bl)
 D.b.K(k,o)
-k=E.eu(900,D.A,b3,D.ab,F.cg,D.ab,k,F.aX)
+k=E.ev(900,D.A,b3,D.ab,F.cg,D.ab,k,F.aX)
 j=b2.aR(C.aUl)
 i=B.X(b4,!0,b5)
 i.push(C.bl)
 D.b.K(i,x)
 i.push(C.bl)
 D.b.K(i,o)
-i=E.eu(900,D.N,b3,D.ab,F.cg,D.ab,i,F.aX)
+i=E.ev(900,D.N,b3,D.ab,F.cg,D.ab,i,F.aX)
 h=b2.aR(C.aVP)
 g=B.X(b4,!0,b5)
 g.push(C.bl)
 D.b.K(g,x)
-g=E.eu(b3,D.A,b3,D.ab,F.cg,D.ab,g,o)
+g=E.ev(b3,D.A,b3,D.ab,F.cg,D.ab,g,o)
 f=b2.aR(C.aTn)
 e=B.X(b4,!0,b5)
 e.push(C.bl)
 D.b.K(e,x)
-e=E.eu(b3,D.N,b3,D.ab,F.cg,D.ab,e,o)
+e=E.ev(b3,D.N,b3,D.ab,F.cg,D.ab,e,o)
 d=b2.aR(C.aSr)
-a0=E.eu(b3,D.A,b3,D.i,F.it,D.ab,b4,x)
+a0=E.ev(b3,D.A,b3,D.i,F.it,D.ab,b4,x)
 a1=b2.aR(C.aTX)
-a2=E.eu(b3,D.N,b3,D.i,F.it,D.ab,b4,x)
+a2=E.ev(b3,D.N,b3,D.i,F.it,D.ab,b4,x)
 a3=b2.aR(C.aWl)
 a4=B.X(b4,!0,b5)
 a4.push(C.bl)
 D.b.K(a4,x)
 a5=y.P
 a6=y.p
-a4=A.t_(B.aW(B.b([B.bA(E.eu(b3,D.A,b3,D.i,F.r2,D.ab,a4,F.aX),1),E.eu(b3,D.A,b3,D.i,F.dQ,D.ab,B.b([E.e_(C.iY,b3,new A.aCL())],a5),F.aX)],a6),D.n,b3,D.i,D.o,b3,b3,D.j))
+a4=A.t_(B.aW(B.b([B.bA(E.ev(b3,D.A,b3,D.i,F.r2,D.ab,a4,F.aX),1),E.ev(b3,D.A,b3,D.i,F.dR,D.ab,B.b([E.e_(C.iY,b3,new A.aCL())],a5),F.aX)],a6),D.n,b3,D.i,D.o,b3,b3,D.j))
 a7=b2.aR(C.aVo)
 a8=B.X(b4,!0,b5)
 a8.push(C.m0)
 D.b.K(a8,x)
-a8=A.t_(B.bv(B.b([B.bA(E.eu(b3,D.N,b3,D.i,F.r2,D.ab,a8,F.aX),1),E.eu(b3,D.N,b3,D.i,F.dQ,D.ab,B.b([E.e_(C.iY,b3,new A.aCM())],a5),F.aX)],a6),D.n,b3,D.i,D.o,b3,b3,D.j))
+a8=A.t_(B.bv(B.b([B.bA(E.ev(b3,D.N,b3,D.i,F.r2,D.ab,a8,F.aX),1),E.ev(b3,D.N,b3,D.i,F.dR,D.ab,B.b([E.e_(C.iY,b3,new A.aCM())],a5),F.aX)],a6),D.n,b3,D.i,D.o,b3,b3,D.j))
 a9=b2.aR(C.aTu)
 b0=B.X(b4,!0,b5)
 b0.push(C.bl)
 D.b.K(b0,x)
-b0=A.t_(B.aW(B.b([B.bA(E.eu(b3,D.A,b3,D.i,F.cg,D.ab,b0,o),1),E.eu(b3,D.A,b3,D.i,F.dQ,D.ab,B.b([E.e_(C.iY,b3,new A.aCN())],a5),F.aX)],a6),D.n,b3,D.i,D.o,b3,b3,D.j))
+b0=A.t_(B.aW(B.b([B.bA(E.ev(b3,D.A,b3,D.i,F.cg,D.ab,b0,o),1),E.ev(b3,D.A,b3,D.i,F.dR,D.ab,B.b([E.e_(C.iY,b3,new A.aCN())],a5),F.aX)],a6),D.n,b3,D.i,D.o,b3,b3,D.j))
 b1=b2.aR(C.aUI)
 b5=B.X(b4,!0,b5)
 b5.push(C.m0)
 D.b.K(b5,x)
-return B.dT(b3,B.b([C.aV7,b7,new G.aM(b3,b8,"/// Define list of CommandBarItem\nfinal simpleCommandBarItems = <CommandBarItem>[\n  CommandBarBuilderItem(\n    builder: (context, mode, w) => Tooltip(\n      message: \"Create something new!\",\n      child: w,\n    ),\n    wrappedItem: CommandBarButton(\n      icon: const Icon(FluentIcons.add),\n      label: const Text('New'),\n      onPressed: () {},\n    ),\n  ),\n  CommandBarBuilderItem(\n    builder: (context, mode, w) => Tooltip(\n      message: \"Delete what is currently selected!\",\n      child: w,\n    ),\n    wrappedItem: CommandBarButton(\n      icon: const Icon(FluentIcons.delete),\n      label: const Text('Delete'),\n      onPressed: () {},\n    ),\n  ),\n  CommandBarButton(\n    icon: const Icon(FluentIcons.archive),\n    label: const Text('Archive'),\n    onPressed: () {},\n  ),\n  CommandBarButton(\n    icon: const Icon(FluentIcons.move),\n    label: const Text('Move'),\n    onPressed: () {},\n  ),\n  const CommandBarButton(\n    icon: Icon(FluentIcons.cancel),\n    label: Text('Disabled'),\n    onPressed: null,\n  ),\n];\n\n/// Generate CommandBar with different properties like overflowBehavior\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.noWrap,\n  primaryItems: [\n    ...simpleCommandBarItems,\n  ],\n);\n",b3,b3),b9,new G.aM(b3,c0,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\n/// Generate CommandBar with different properties like overflowBehavior\nCommandBar(\n  direction: Axis.vertical,\n  overflowBehavior: CommandBarOverflowBehavior.noWrap,\n  primaryItems: [\n    ...simpleCommandBarItems,\n  ],\n);\n",b3,b3),c1,new G.aM(b3,c2,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.wrap,\n  compactBreakpointWidth: 600,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n  ],\n);\n",b3,b3),w,new G.aM(b3,new B.dO(C.ew,v,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    overflowBehavior: CommandBarOverflowBehavior.wrap,\n    compactBreakpointWidth: 600,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(direction: Axis.horizontal),\n      ...moreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),u,new G.aM(b3,new B.dO(C.Mg,t,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxWidth: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      overflowBehavior: CommandBarOverflowBehavior.clip,\n      isCompact: true,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),s,new G.aM(b3,new B.dO(C.ew,r,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      direction: Axis.vertical,\n      overflowBehavior: CommandBarOverflowBehavior.clip,\n      isCompact: true,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),q,new G.aM(b3,p,"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\nCommandBarCard(\n  child: CommandBar(\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n      const CommandBarSeparator(),\n      ...evenMoreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),n,new G.aM(b3,new B.dO(C.ew,m,b3),"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      direction: Axis.vertical,\n      overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n        const CommandBarSeparator(),\n        ...evenMoreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),l,new G.aM(b3,k,"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\n\nCommandBar(\n  mainAxisAlignment: MainAxisAlignment.end,\n  overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n  compactBreakpointWidth: 900,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n    const CommandBarSeparator(),\n    ...evenMoreCommandBarItems,\n  ],\n);\n",b3,b3),j,new G.aM(b3,new B.dO(C.ew,i,b3),"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    mainAxisAlignment: MainAxisAlignment.end,\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    compactBreakpointWidth: 900,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n      const CommandBarSeparator(),\n      ...evenMoreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),h,new G.aM(b3,g,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  mainAxisAlignment: MainAxisAlignment.end,\n  overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n  ],\n  secondaryItems: evenMoreCommandBarItems,\n);\n",b3,b3),f,new G.aM(b3,new B.dO(C.ew,e,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    mainAxisAlignment: MainAxisAlignment.end,\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n    ],\n    secondaryItems: evenMoreCommandBarItems,\n  ),\n);\n",b3,b3),d,new G.aM(b3,a0,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.wrap,\n  primaryItems: simpleCommandBarItems,\n  secondaryItems: moreCommandBarItems,\n);\n",b3,b3),a1,new G.aM(b3,new B.dO(C.ew,a2,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    overflowBehavior: CommandBarOverflowBehavior.wrap,\n    primaryItems: simpleCommandBarItems,\n    secondaryItems: moreCommandBarItems,\n  ),\n);\n",b3,b3),a3,new G.aM(b3,a4,"CommandBarCard(\n    child: Row(children: [\n      Expanded(\n        child: CommandBar(\n          overflowBehavior: CommandBarOverflowBehavior.scrolling,\n          primaryItems: [\n            ...simpleCommandBarItems,\n            const CommandBarSeparator(),\n            ...moreCommandBarItems,\n          ],\n        ),\n      ),\n      // End-aligned button(s)\n      CommandBar(\n        overflowBehavior: CommandBarOverflowBehavior.noWrap,\n        primaryItems: [\n          CommandBarButton(\n            icon: const Icon(FluentIcons.refresh),\n            onPressed: () {},\n          ),\n        ],\n      ),\n    ],\n  ),\n);\n",b3,b3),a7,new G.aM(b3,new B.dO(C.Mc,a8,b3),"ConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230, maxWidth: 48),\n  child: CommandBarCard(\n    child: Column(\n      children: [\n        Expanded(\n          child: CommandBar(\n            direction: Axis.vertical,\n            overflowBehavior: CommandBarOverflowBehavior.scrolling,\n            primaryItems: [\n              ...simpleCommandBarItems,\n              const CommandBarSeparator(direction: Axis.horizontal),\n              ...moreCommandBarItems,\n            ],\n          ),\n        ),\n        // End-aligned button(s)\n        CommandBar(\n          direction: Axis.vertical,\n          overflowBehavior: CommandBarOverflowBehavior.noWrap,\n          primaryItems: [\n            CommandBarButton(\n              icon: const Icon(FluentIcons.refresh),\n              onPressed: () {},\n            ),\n          ],\n        ),\n      ],\n    ),\n  ),\n);\n",b3,b3),a9,new G.aM(b3,b0,"CommandBarCard(\n  child: Row(\n    children: [\n      Expanded(\n        child: CommandBar(\n          overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n          overflowItemAlignment: MainAxisAlignment.end,\n          primaryItems: [\n            ...simpleCommandBarItems,\n            const CommandBarSeparator(),\n            ...moreCommandBarItems,\n          ],\n          secondaryItems: evenMoreCommandBarItems,\n        ),\n      ),\n      // End-aligned button(s)\n      CommandBar(\n        overflowBehavior: CommandBarOverflowBehavior.noWrap,\n        primaryItems: [\n          CommandBarButton(\n            icon: const Icon(FluentIcons.refresh),\n            onPressed: () {},\n          ),\n        ],\n      ),\n    ],\n  ),\n);\n",b3,b3),b1,new G.aM(b3,new B.dO(C.Md,A.t_(B.bv(B.b([B.bA(E.eu(b3,D.N,b3,D.i,F.cg,D.ab,b5,o),1),E.eu(b3,D.N,b3,D.i,F.dQ,D.ab,B.b([E.e_(C.iY,b3,new A.aCO())],a5),F.aX)],a6),D.n,b3,D.i,D.o,b3,b3,D.j)),b3),"ConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 330),\n  child: CommandBarCard(\n    child: Column(\n      children: [\n        Expanded(\n          child: CommandBar(\n            direction: Axis.vertical,\n            overflowBehavior:\n                CommandBarOverflowBehavior.dynamicOverflow,\n            overflowItemAlignment: MainAxisAlignment.end,\n            primaryItems: [\n              ...simpleCommandBarItems,\n              const CommandBarSeparator(direction: Axis.horizontal),\n              ...moreCommandBarItems,\n            ],\n            secondaryItems: evenMoreCommandBarItems,\n          ),\n        ),\n        // End-aligned button(s)\n        CommandBar(\n          direction: Axis.vertical,\n          overflowBehavior: CommandBarOverflowBehavior.noWrap,\n          primaryItems: [\n            CommandBarButton(\n              icon: const Icon(FluentIcons.refresh),\n              onPressed: () {},\n            ),\n          ],\n        ),\n      ],\n    ),\n  ),\n);\n",b3,b3)],a6),b6)}}
+return B.dT(b3,B.b([C.aV7,b7,new G.aM(b3,b8,"/// Define list of CommandBarItem\nfinal simpleCommandBarItems = <CommandBarItem>[\n  CommandBarBuilderItem(\n    builder: (context, mode, w) => Tooltip(\n      message: \"Create something new!\",\n      child: w,\n    ),\n    wrappedItem: CommandBarButton(\n      icon: const Icon(FluentIcons.add),\n      label: const Text('New'),\n      onPressed: () {},\n    ),\n  ),\n  CommandBarBuilderItem(\n    builder: (context, mode, w) => Tooltip(\n      message: \"Delete what is currently selected!\",\n      child: w,\n    ),\n    wrappedItem: CommandBarButton(\n      icon: const Icon(FluentIcons.delete),\n      label: const Text('Delete'),\n      onPressed: () {},\n    ),\n  ),\n  CommandBarButton(\n    icon: const Icon(FluentIcons.archive),\n    label: const Text('Archive'),\n    onPressed: () {},\n  ),\n  CommandBarButton(\n    icon: const Icon(FluentIcons.move),\n    label: const Text('Move'),\n    onPressed: () {},\n  ),\n  const CommandBarButton(\n    icon: Icon(FluentIcons.cancel),\n    label: Text('Disabled'),\n    onPressed: null,\n  ),\n];\n\n/// Generate CommandBar with different properties like overflowBehavior\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.noWrap,\n  primaryItems: [\n    ...simpleCommandBarItems,\n  ],\n);\n",b3,b3),b9,new G.aM(b3,c0,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\n/// Generate CommandBar with different properties like overflowBehavior\nCommandBar(\n  direction: Axis.vertical,\n  overflowBehavior: CommandBarOverflowBehavior.noWrap,\n  primaryItems: [\n    ...simpleCommandBarItems,\n  ],\n);\n",b3,b3),c1,new G.aM(b3,c2,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.wrap,\n  compactBreakpointWidth: 600,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n  ],\n);\n",b3,b3),w,new G.aM(b3,new B.dO(C.ew,v,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    overflowBehavior: CommandBarOverflowBehavior.wrap,\n    compactBreakpointWidth: 600,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(direction: Axis.horizontal),\n      ...moreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),u,new G.aM(b3,new B.dO(C.Mg,t,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxWidth: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      overflowBehavior: CommandBarOverflowBehavior.clip,\n      isCompact: true,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),s,new G.aM(b3,new B.dO(C.ew,r,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      direction: Axis.vertical,\n      overflowBehavior: CommandBarOverflowBehavior.clip,\n      isCompact: true,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),q,new G.aM(b3,p,"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\nCommandBarCard(\n  child: CommandBar(\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n      const CommandBarSeparator(),\n      ...evenMoreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),n,new G.aM(b3,new B.dO(C.ew,m,b3),"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      direction: Axis.vertical,\n      overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n        const CommandBarSeparator(),\n        ...evenMoreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),l,new G.aM(b3,k,"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\n\nCommandBar(\n  mainAxisAlignment: MainAxisAlignment.end,\n  overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n  compactBreakpointWidth: 900,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n    const CommandBarSeparator(),\n    ...evenMoreCommandBarItems,\n  ],\n);\n",b3,b3),j,new G.aM(b3,new B.dO(C.ew,i,b3),"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    mainAxisAlignment: MainAxisAlignment.end,\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    compactBreakpointWidth: 900,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n      const CommandBarSeparator(),\n      ...evenMoreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),h,new G.aM(b3,g,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  mainAxisAlignment: MainAxisAlignment.end,\n  overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n  ],\n  secondaryItems: evenMoreCommandBarItems,\n);\n",b3,b3),f,new G.aM(b3,new B.dO(C.ew,e,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    mainAxisAlignment: MainAxisAlignment.end,\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n    ],\n    secondaryItems: evenMoreCommandBarItems,\n  ),\n);\n",b3,b3),d,new G.aM(b3,a0,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.wrap,\n  primaryItems: simpleCommandBarItems,\n  secondaryItems: moreCommandBarItems,\n);\n",b3,b3),a1,new G.aM(b3,new B.dO(C.ew,a2,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    overflowBehavior: CommandBarOverflowBehavior.wrap,\n    primaryItems: simpleCommandBarItems,\n    secondaryItems: moreCommandBarItems,\n  ),\n);\n",b3,b3),a3,new G.aM(b3,a4,"CommandBarCard(\n    child: Row(children: [\n      Expanded(\n        child: CommandBar(\n          overflowBehavior: CommandBarOverflowBehavior.scrolling,\n          primaryItems: [\n            ...simpleCommandBarItems,\n            const CommandBarSeparator(),\n            ...moreCommandBarItems,\n          ],\n        ),\n      ),\n      // End-aligned button(s)\n      CommandBar(\n        overflowBehavior: CommandBarOverflowBehavior.noWrap,\n        primaryItems: [\n          CommandBarButton(\n            icon: const Icon(FluentIcons.refresh),\n            onPressed: () {},\n          ),\n        ],\n      ),\n    ],\n  ),\n);\n",b3,b3),a7,new G.aM(b3,new B.dO(C.Mc,a8,b3),"ConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230, maxWidth: 48),\n  child: CommandBarCard(\n    child: Column(\n      children: [\n        Expanded(\n          child: CommandBar(\n            direction: Axis.vertical,\n            overflowBehavior: CommandBarOverflowBehavior.scrolling,\n            primaryItems: [\n              ...simpleCommandBarItems,\n              const CommandBarSeparator(direction: Axis.horizontal),\n              ...moreCommandBarItems,\n            ],\n          ),\n        ),\n        // End-aligned button(s)\n        CommandBar(\n          direction: Axis.vertical,\n          overflowBehavior: CommandBarOverflowBehavior.noWrap,\n          primaryItems: [\n            CommandBarButton(\n              icon: const Icon(FluentIcons.refresh),\n              onPressed: () {},\n            ),\n          ],\n        ),\n      ],\n    ),\n  ),\n);\n",b3,b3),a9,new G.aM(b3,b0,"CommandBarCard(\n  child: Row(\n    children: [\n      Expanded(\n        child: CommandBar(\n          overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n          overflowItemAlignment: MainAxisAlignment.end,\n          primaryItems: [\n            ...simpleCommandBarItems,\n            const CommandBarSeparator(),\n            ...moreCommandBarItems,\n          ],\n          secondaryItems: evenMoreCommandBarItems,\n        ),\n      ),\n      // End-aligned button(s)\n      CommandBar(\n        overflowBehavior: CommandBarOverflowBehavior.noWrap,\n        primaryItems: [\n          CommandBarButton(\n            icon: const Icon(FluentIcons.refresh),\n            onPressed: () {},\n          ),\n        ],\n      ),\n    ],\n  ),\n);\n",b3,b3),b1,new G.aM(b3,new B.dO(C.Md,A.t_(B.bv(B.b([B.bA(E.ev(b3,D.N,b3,D.i,F.cg,D.ab,b5,o),1),E.ev(b3,D.N,b3,D.i,F.dR,D.ab,B.b([E.e_(C.iY,b3,new A.aCO())],a5),F.aX)],a6),D.n,b3,D.i,D.o,b3,b3,D.j)),b3),"ConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 330),\n  child: CommandBarCard(\n    child: Column(\n      children: [\n        Expanded(\n          child: CommandBar(\n            direction: Axis.vertical,\n            overflowBehavior:\n                CommandBarOverflowBehavior.dynamicOverflow,\n            overflowItemAlignment: MainAxisAlignment.end,\n            primaryItems: [\n              ...simpleCommandBarItems,\n              const CommandBarSeparator(direction: Axis.horizontal),\n              ...moreCommandBarItems,\n            ],\n            secondaryItems: evenMoreCommandBarItems,\n          ),\n        ),\n        // End-aligned button(s)\n        CommandBar(\n          direction: Axis.vertical,\n          overflowBehavior: CommandBarOverflowBehavior.noWrap,\n          primaryItems: [\n            CommandBarButton(\n              icon: const Icon(FluentIcons.refresh),\n              onPressed: () {},\n            ),\n          ],\n        ),\n      ],\n    ),\n  ),\n);\n",b3,b3)],a6),b6)}}
 A.abn.prototype={}
 A.ps.prototype={
 P(){var x=y.s
@@ -596,7 +596,7 @@ A.abx.prototype={}
 A.pD.prototype={
 P(){return new A.a52(I.h6,D.h)}}
 A.a52.prototype={
-v(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=o.aR(C.aW2),l=y.E,k=d.t(l).w,j=B.es(!1,C.aVU,n,!0,n,n,new A.aGU(d),n,n,n),i=o.aR(C.aSN),h=d.t(l).w,g=o.e.i(0),f=y.p,e=B.b([],f)
+v(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=o.aR(C.aW2),l=y.E,k=d.t(l).w,j=B.et(!1,C.aVU,n,!0,n,n,new A.aGU(d),n,n,n),i=o.aR(C.aSN),h=d.t(l).w,g=o.e.i(0),f=y.p,e=B.b([],f)
 if(o.d)e.push(P.amL(n,C.aV8,!0,!0,new A.aGV(o),o.e,C.Kp))
 e.push(D.bq)
 e.push(C.rk)
@@ -616,7 +616,7 @@ t=B.b([],f)
 if(o.f){s=o.r
 r=B.aC(s?"Essential app message for your users to be informed of, acknowledge, or take action on. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.":"A short essential message",n,n,n,n,n)
 q=o.e
-p=o.w?B.es(!1,C.aVb,n,!0,n,n,new A.aH0(),n,n,n):n
+p=o.w?B.et(!1,C.aVb,n,!0,n,n,new A.aH0(),n,n,n):n
 t.push(P.amL(p,r,o.x,s,new A.aH1(o),q,C.Kp))}t.push(D.bq)
 t.push(C.rk)
 t.push(D.bq)
@@ -627,7 +627,7 @@ t.push(N.hH(o.x,C.aUB,new A.aGX(o)))
 return B.dT(n,B.b([C.aUi,m,new G.aM(n,new B.ab(D.ci,j,n),"displayInfoBar(context, builder: (context, close) {\n  return InfoBar(\n    title: const Text('You can not do that :/'),\n    content: const Text(\n        'A proper warning message of why the user can not do that :/'),\n    action: IconButton(\n      icon: const Icon(FluentIcons.clear),\n      onPressed: close,\n    ),\n    severity: InfoBarSeverity.warning,\n  );\n}",k.y,n),i,new G.aM(n,new B.ab(D.ci,e,n),"InfoBar(\n  title: const Text('Title'),\n  content: const Text(\n    'Essential app message for your users to be informed of, '\n    'acknowledge, or take action on.',\n  ),\n  severity: "+g+",\n  isLong: true,\n)",h.y,n),w,new G.aM(n,new B.ab(D.ci,B.bv(t,D.L,n,D.i,D.I,n,n,D.j),n),"InfoBar(\n  title: const Text('Title'),\n  content: Text(\n    "+x+"\n  ),\n  severity: "+v+",\n  isLong: true,\n  "+B.k(u)+"\n)",l.y,n)],f),C.aJI)}}
 A.abE.prototype={}
 A.qf.prototype={
-P(){return new A.a7l(D.dL.asU()*100,D.h)}}
+P(){return new A.a7l(D.dM.asU()*100,D.h)}}
 A.a7l.prototype={
 v(d){var x=this,w=null,v=x.f9(0,C.aT6),u=x.aR(C.aS6),t=x.f9(0,C.aUW),s=x.aR(C.aUf),r=x.f9(0,C.aTS),q=x.d,p=""+D.c.ap(q),o=y.p
 return B.dT(w,B.b([v,u,t,C.Ov,s,r,new G.aM(w,B.aW(B.b([new A.yh(q,w),C.oz,new Z.uE(q,4.5,w),X.bS,L.hh(M.v4(w,100,0,new A.aK6(x),q,!1),"Progress: "+p,w)],o),D.n,w,D.i,D.o,w,w,D.j),"// determinate progress bar\nProgressBar(value: "+p+"),\n\n// determinate progress ring\nProgressRing(value: "+p+"),",w,w)],o),C.aJw)}}
@@ -962,7 +962,7 @@ A.aNM.prototype={
 $0(){return this.a.f=this.b},
 $S:0}
 A.aNR.prototype={
-$2(d,e){var x=null,w=$.Bl()[e],v=B.aC(w,x,x,x,x,x),u=this.a,t=B.ev(u.d[e],x,x,x)
+$2(d,e){var x=null,w=$.Bl()[e],v=B.aC(w,x,x,x,x,x),u=this.a,t=B.ew(u.d[e],x,x,x)
 return S.anK(C.Qi,x,new A.aNO(u,w),D.b.p(u.w,w),O.ue,x,C.Kv,v,t)},
 $S:z+0}
 A.aNO.prototype={
@@ -994,10 +994,10 @@ v(E.fX,[A.Cq,A.ws])
 v(B.z,[A.yh,A.p1,A.pk,A.ps,A.pD,A.qf,A.qM])
 v(B.D,[A.N0,A.abc,A.abn,A.abx,A.abE,A.abR,A.acj])
 u(A.a7j,A.N0)
-v(B.eH,[A.aK4,A.aGT,A.aNQ,A.aNR,A.aNS])
+v(B.eI,[A.aK4,A.aGT,A.aNQ,A.aNR,A.aNS])
 v(B.dg,[A.aK3,A.aK1,A.aK0,A.aK_,A.az5,A.az4,A.az6,A.az7,A.az8,A.az9,A.aD0,A.aD2,A.aEI,A.aEG,A.aEF,A.aEH,A.aEE,A.aEJ,A.aEK,A.aGW,A.aGY,A.aGZ,A.aH2,A.aH3,A.aH4,A.aGX,A.aK6,A.aNP,A.aNO,A.aNN])
 v(B.po,[A.a7i,A.a6D])
-v(B.eb,[A.aK2,A.az3,A.az2,A.az1,A.az0,A.az_,A.aD1,A.aD3,A.aD4,A.aD5,A.aCV,A.aCW,A.aCX,A.aCY,A.aCZ,A.aD_,A.aCP,A.aCQ,A.aCR,A.aCS,A.aCT,A.aCU,A.aCL,A.aCM,A.aCN,A.aCO,A.aED,A.aEA,A.aEz,A.aEC,A.aEB,A.aGU,A.aGV,A.aGS,A.aGR,A.aGQ,A.aH_,A.aH1,A.aGP,A.aH0,A.aGO,A.aGN,A.aGM,A.aGL,A.aK5,A.aNM,A.aNL,A.aNK])
+v(B.ec,[A.aK2,A.az3,A.az2,A.az1,A.az0,A.az_,A.aD1,A.aD3,A.aD4,A.aD5,A.aCV,A.aCW,A.aCX,A.aCY,A.aCZ,A.aD_,A.aCP,A.aCQ,A.aCR,A.aCS,A.aCT,A.aCU,A.aCL,A.aCM,A.aCN,A.aCO,A.aED,A.aEA,A.aEz,A.aEC,A.aEB,A.aGU,A.aGV,A.aGS,A.aGR,A.aGQ,A.aH_,A.aH1,A.aGP,A.aH0,A.aGO,A.aGN,A.aGM,A.aGL,A.aK5,A.aNM,A.aNL,A.aNK])
 u(A.G9,B.Gp)
 u(A.Ob,B.bd)
 u(A.a1t,A.abc)
@@ -1059,15 +1059,15 @@ C.aAX=B.b(x([I.h6,I.u4,I.au_,I.au0]),B.W("q<dR>"))
 C.atz=new B.bw(H.tQ,14,null,null,null)
 C.aJm=new B.ab(A_.rC,C.atz,null)
 C.aSQ=new B.t("Progress controls",null,null,null,null,null,null,null)
-C.aJw=new B.el(C.aSQ,null,null)
+C.aJw=new B.em(C.aSQ,null,null)
 C.aVL=new B.t("Tiles",null,null,null,null,null,null,null)
-C.aJy=new B.el(C.aVL,null,null)
+C.aJy=new B.em(C.aVL,null,null)
 C.aWd=new B.t("Acrylic",null,null,null,null,null,null,null)
-C.aJA=new B.el(C.aWd,null,null)
+C.aJA=new B.em(C.aWd,null,null)
 C.aSt=new B.t("InfoBar",null,null,null,null,null,null,null)
-C.aJI=new B.el(C.aSt,null,null)
+C.aJI=new B.em(C.aSt,null,null)
 C.aU2=new B.t("Expander",null,null,null,null,null,null,null)
-C.aJL=new B.el(C.aU2,null,null)
+C.aJL=new B.em(C.aU2,null,null)
 C.aKv=new A.Xo(null)
 C.aRW=new B.t("Choose your crost",null,null,null,null,null,null,null)
 C.aS0=new B.t("Search",null,null,null,null,null,null,null)
@@ -1141,4 +1141,4 @@ C.aWm=new B.t("A translucent material recommended for panel backgrounds. Acrylic
 C.aWl=new B.t("Carded complex command bar with many items (horizontal scrolling)",null,null,null,null,null,null,null)})();(function lazyInitializers(){var x=a.lazy
 x($,"bqQ","Bl",()=>B.b("Kendall\nCollins\nAdatum Corporation\nHenry\nRoss\nAdventure Works Cycles\nVance\nDeLeon\nAlpine Ski House\nVictoria\nBurke\nBellows College\nAmber\nRodriguez\nBest For You Organics Company\nAmari\nRivera\nContoso, Ltd.\nJessie\nIrwin\nContoso Pharmaceuticals\nQuinn\nCampbell\nContoso Suites\nOlivia\nWilson\nConsolidated Messenger\nAna\nBowman\nFabrikam, Inc.\nShawn\nHughes\nFabrikam Residences\nOscar\nWard\nFirst Up Consultants\nMadison\nButler\nFourth Coffee\nGraham\nBarnes\nGraphic Design Institute\nAnthony\nIvanov\nHumongous Insurance\nMichael\nPeltier\nLamna Healthcare Company\nMorgan\nConnors\nLiberty's Delightful Sinful Bakery & Cafe\nAndre\nLawson\nLucerne Publishing\nPreston\nMorales\nMargie's Travel\nBriana\nHernandez\nNod Publishers\nNicole\nWagner\nNorthwind Traders\nMario\nRogers\nProseware, Inc.\nEugenia\nLopez\nRelecloud\nNathan\nRigby\nSchool of Fine Art\nEllis\nTurner\nSouthridge Video\nMiguel\nReyes\nTailspin Toys\nHayden\nCook\nTailwind Traders".split("\n"),y.s))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_36",e:"endPart",h:b})})($__dart_deferred_initializers__,"8nbQsWWcppgoV64UUcE/Bmc+AQQ=");
+a.eventLog.push({p:"main.dart.js_36",e:"endPart",h:b})})($__dart_deferred_initializers__,"u/dh/YsFNNcwwcMI4clIDUjz6J0=");
