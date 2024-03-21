@@ -2,33 +2,33 @@
 a[b][c]=a[b][c]||[]
 a[b][c].push({p:"main.dart.js_31",e:"beginPart"})})(self,"$__dart_deferred_initializers__","eventLog")
 $__dart_deferred_initializers__.current=function(a,b,c,$){var J,B,D,R,U,S,V,P,W,K,G,Q,M,H,T,X,A={
-wR(d){return new A.Zd(d,null)},
-Zd:function Zd(d,e){this.c=d
+x2(d){return new A.ZU(d,null)},
+ZU:function ZU(d,e){this.c=d
 this.a=e},
-Jv:function Jv(d,e,f){this.b=d
+JM:function JM(d,e,f){this.b=d
 this.c=e
 this.a=f},
-Ze:function Ze(d,e){this.c=d
+ZV:function ZV(d,e){this.c=d
 this.a=e},
-BT:function BT(d,e){this.d=d
+C8:function C8(d,e){this.d=d
 this.a=e},
-Eu:function Eu(d,e){this.c=d
+EI:function EI(d,e){this.c=d
 this.a=e},
-alp:function alp(d,e,f){var _=this
+amj:function amj(d,e,f){var _=this
 _.d=$
 _.f=_.e=0
 _.r=15
 _.x=_.w=1
 _.y=0
-_.eL$=d
-_.bQ$=e
+_.eG$=d
+_.bI$=e
 _.a=null
 _.b=f
 _.c=null},
-bb5:function bb5(d,e){this.a=d
+bcO:function bcO(d,e){this.a=d
 this.b=e},
-bb4:function bb4(d){this.a=d},
-alo:function alo(d,e,f,g,h,i,j,k,l,m,n,o){var _=this
+bcN:function bcN(d){this.a=d},
+ami:function ami(d,e,f,g,h,i,j,k,l,m,n,o){var _=this
 _.b=d
 _.c=e
 _.d=f
@@ -41,115 +41,83 @@ _.y=l
 _.z=m
 _.Q=n
 _.a=o},
-bb2:function bb2(d,e,f){this.a=d
+bcL:function bcL(d,e,f){this.a=d
 this.b=e
 this.c=f},
-bb3:function bb3(d){this.a=d},
-bb1:function bb1(d){this.a=d},
-bb0:function bb0(d){this.a=d},
-Wu:function Wu(){},
-YR:function YR(d){this.a=d},
-NT:function NT(d,e,f){var _=this
-_.E=d
-_.db$=e
-_.fy=_.fx=null
-_.go=!1
-_.k1=_.id=null
-_.k2=0
-_.a=!1
-_.b=null
-_.c=0
-_.e=_.d=null
-_.r=_.f=!1
-_.w=null
-_.x=!1
-_.y=null
-_.z=!0
-_.Q=null
-_.as=!1
-_.at=null
-_.ax=!1
-_.ay=$
-_.ch=f
-_.CW=!1
-_.cx=$
-_.cy=!0
-_.db=!1
-_.dx=null
-_.dy=!0
-_.fr=null},
-XQ:function XQ(d,e,f){this.e=d
+bcM:function bcM(d){this.a=d},
+bcK:function bcK(d){this.a=d},
+bcJ:function bcJ(d){this.a=d},
+Xa:function Xa(){},
+Zw:function Zw(d){this.a=d},
+alD:function alD(d,e,f){this.b=d
 this.c=e
 this.a=f},
-akJ:function akJ(d,e,f){this.b=d
-this.c=e
-this.a=f},
-a8d:function a8d(d){this.a=d},
-br6(d,e){return B.bH(B.a([B.bQx(B.iO(C.bSZ,!1,e,null,null,!1))],y.R),null,d)},
-bHe(){return new A.tp(null)},
-tp:function tp(d){this.a=d},
-aeP:function aeP(d){var _=this
+a8Y:function a8Y(d){this.a=d},
+bsV(d,e){return B.bJ(B.a([B.bSC(B.iT(C.bTt,!1,e,null,null,!1))],y.R),null,d)},
+bJc(){return new A.tA(null)},
+tA:function tA(d){this.a=d},
+afB:function afB(d){var _=this
 _.e=_.d=0.8
 _.f=30
 _.r=0
 _.a=_.w=null
 _.b=d
 _.c=null},
-aXZ:function aXZ(d){this.a=d},
-aXX:function aXX(d,e){this.a=d
+aZD:function aZD(d){this.a=d},
+aZB:function aZB(d,e){this.a=d
 this.b=e},
-aXY:function aXY(d){this.a=d},
-aY_:function aY_(d){this.a=d},
-aXW:function aXW(d,e){this.a=d
+aZC:function aZC(d){this.a=d},
+aZE:function aZE(d){this.a=d},
+aZA:function aZA(d,e){this.a=d
 this.b=e},
-aY0:function aY0(d){this.a=d},
-aXV:function aXV(d,e){this.a=d
+aZF:function aZF(d){this.a=d},
+aZz:function aZz(d,e){this.a=d
 this.b=e},
-aY1:function aY1(d){this.a=d},
-aXU:function aXU(d,e){this.a=d
+aZG:function aZG(d){this.a=d},
+aZy:function aZy(d,e){this.a=d
 this.b=e},
-aY2:function aY2(d){this.a=d},
-aXT:function aXT(d,e){this.a=d
+aZH:function aZH(d){this.a=d},
+aZx:function aZx(d,e){this.a=d
 this.b=e},
-aeN:function aeN(d){this.a=d},
-aqm:function aqm(){},
-bIj(){return new A.tJ(null)},
-bQM(){var x=y.P
-return new A.ag1(B.a([new A.Jv(new A.b1F(),E.f6(T.IN,C.c7i,new A.b1G()),null),new A.Jv(new A.b1H(),E.f6(F.zb,F.wN,new A.b1I()),null),E.f6(C.aUH,C.c5W,new A.b1J()),E.f6(C.aUK,C.c72,new A.b1K()),C.ahQ],x),B.a([E.f6(C.aUT,S.CO,new A.b1z()),E.f6(C.aVc,C.c5D,new A.b1A()),E.f6(C.IS,C.a7H,new A.b1B()),E.f6(D.za,D.a7N,new A.b1C()),E.f6(C.aUL,C.c5x,new A.b1D()),E.f6(C.aUM,C.c6g,new A.b1E())],x),B.a([E.f6(C.aUP,C.c7a,new A.b1t()),E.f6(C.aUQ,C.c5M,new A.b1u()),E.f6(F.z9,F.CL,new A.b1v()),E.f6(F.IO,C.c5d,new A.b1w()),E.f6(T.IT,C.c49,new A.b1x()),E.f6(C.IS,C.a7H,new A.b1y())],x),D.C)},
-tJ:function tJ(d){this.a=d},
-ag1:function ag1(d,e,f,g){var _=this
+afz:function afz(d){this.a=d},
+ari:function ari(){},
+bKg(){return new A.tT(null)},
+bSS(){var x=y.P
+return new A.agQ(B.a([new A.JM(new A.b3n(),E.fb(T.J7,C.c7T,new A.b3o()),null),new A.JM(new A.b3p(),E.fb(F.zo,F.wV,new A.b3q()),null),E.fb(C.aV2,C.c6w,new A.b3r()),E.fb(C.aV6,C.c7D,new A.b3s()),C.ai7],x),B.a([E.fb(C.aVg,S.D3,new A.b3h()),E.fb(C.aVA,C.c6d,new A.b3i()),E.fb(C.Jc,C.a80,new A.b3j()),E.fb(D.zn,D.a86,new A.b3k()),E.fb(C.aV7,C.c67,new A.b3l()),E.fb(C.aV8,C.c6R,new A.b3m())],x),B.a([E.fb(C.aVb,C.c7L,new A.b3b()),E.fb(C.aVd,C.c6m,new A.b3c()),E.fb(F.zm,F.D0,new A.b3d()),E.fb(F.J8,C.c5O,new A.b3e()),E.fb(T.Jd,C.c4K,new A.b3f()),E.fb(C.Jc,C.a80,new A.b3g())],x),D.C)},
+tT:function tT(d){this.a=d},
+agQ:function agQ(d,e,f,g){var _=this
 _.d=d
 _.e=e
 _.f=f
 _.a=null
 _.b=g
 _.c=null},
-b1F:function b1F(){},
-b1G:function b1G(){},
-b1H:function b1H(){},
-b1I:function b1I(){},
-b1J:function b1J(){},
-b1K:function b1K(){},
-b1z:function b1z(){},
-b1A:function b1A(){},
-b1B:function b1B(){},
-b1C:function b1C(){},
-b1D:function b1D(){},
-b1E:function b1E(){},
-b1t:function b1t(){},
-b1u:function b1u(){},
-b1v:function b1v(){},
-b1w:function b1w(){},
-b1x:function b1x(){},
-b1y:function b1y(){},
-b1p:function b1p(){},
-b1q:function b1q(){},
-b1r:function b1r(){},
-b1s:function b1s(){},
-aqx:function aqx(){},
-bK_(){return new A.tV(null)},
-tV:function tV(d){this.a=d},
-ahL:function ahL(d,e,f,g){var _=this
+b3n:function b3n(){},
+b3o:function b3o(){},
+b3p:function b3p(){},
+b3q:function b3q(){},
+b3r:function b3r(){},
+b3s:function b3s(){},
+b3h:function b3h(){},
+b3i:function b3i(){},
+b3j:function b3j(){},
+b3k:function b3k(){},
+b3l:function b3l(){},
+b3m:function b3m(){},
+b3b:function b3b(){},
+b3c:function b3c(){},
+b3d:function b3d(){},
+b3e:function b3e(){},
+b3f:function b3f(){},
+b3g:function b3g(){},
+b37:function b37(){},
+b38:function b38(){},
+b39:function b39(){},
+b3a:function b3a(){},
+art:function art(){},
+bLY(){return new A.u3(null)},
+u3:function u3(d){this.a=d},
+aiA:function aiA(d,e,f,g){var _=this
 _.d=d
 _.e=!1
 _.f=e
@@ -159,28 +127,28 @@ _.x="Pan"
 _.a=null
 _.b=g
 _.c=null},
-b4h:function b4h(d){this.a=d},
-b4c:function b4c(d,e){this.a=d
+b5Z:function b5Z(d){this.a=d},
+b5U:function b5U(d,e){this.a=d
 this.b=e},
-b4f:function b4f(d){this.a=d},
-b4e:function b4e(d,e){this.a=d
+b5X:function b5X(d){this.a=d},
+b5W:function b5W(d,e){this.a=d
 this.b=e},
-b49:function b49(d,e){this.a=d
+b5R:function b5R(d,e){this.a=d
 this.b=e},
-b4g:function b4g(d){this.a=d},
-b4d:function b4d(d,e){this.a=d
+b5Y:function b5Y(d){this.a=d},
+b5V:function b5V(d,e){this.a=d
 this.b=e},
-b48:function b48(d,e){this.a=d
+b5Q:function b5Q(d,e){this.a=d
 this.b=e},
-b4i:function b4i(d){this.a=d},
-b4b:function b4b(){},
-b4j:function b4j(d){this.a=d},
-b4a:function b4a(d,e){this.a=d
+b6_:function b6_(d){this.a=d},
+b5T:function b5T(){},
+b60:function b60(d){this.a=d},
+b5S:function b5S(d,e){this.a=d
 this.b=e},
-aqK:function aqK(){},
-bL0(){return new A.ud(null)},
-ud:function ud(d){this.a=d},
-aiX:function aiX(d,e){var _=this
+arH:function arH(){},
+bMZ(){return new A.uo(null)},
+uo:function uo(d){this.a=d},
+ajM:function ajM(d,e){var _=this
 _.d=!0
 _.e=d
 _.f=!0
@@ -189,48 +157,48 @@ _.x=_.w=!0
 _.a=null
 _.b=e
 _.c=null},
-b74:function b74(d){this.a=d},
-b73:function b73(){},
-b75:function b75(d){this.a=d},
-b72:function b72(d){this.a=d},
-b76:function b76(d){this.a=d},
-b71:function b71(d,e){this.a=d
+b8M:function b8M(d){this.a=d},
+b8L:function b8L(){},
+b8N:function b8N(d){this.a=d},
+b8K:function b8K(d){this.a=d},
+b8O:function b8O(d){this.a=d},
+b8J:function b8J(d,e){this.a=d
 this.b=e},
-b78:function b78(){},
-b79:function b79(d){this.a=d},
-b70:function b70(d,e){this.a=d
+b8Q:function b8Q(){},
+b8R:function b8R(d){this.a=d},
+b8I:function b8I(d,e){this.a=d
 this.b=e},
-b7a:function b7a(d){this.a=d},
-b7c:function b7c(d){this.a=d},
-b7_:function b7_(d){this.a=d},
-b7b:function b7b(){},
-b7d:function b7d(d){this.a=d},
-b6Z:function b6Z(d,e){this.a=d
+b8S:function b8S(d){this.a=d},
+b8U:function b8U(d){this.a=d},
+b8H:function b8H(d){this.a=d},
+b8T:function b8T(){},
+b8V:function b8V(d){this.a=d},
+b8G:function b8G(d,e){this.a=d
 this.b=e},
-b7e:function b7e(d){this.a=d},
-b6Y:function b6Y(d,e){this.a=d
+b8W:function b8W(d){this.a=d},
+b8F:function b8F(d,e){this.a=d
 this.b=e},
-b7f:function b7f(d){this.a=d},
-b6X:function b6X(d,e){this.a=d
+b8X:function b8X(d){this.a=d},
+b8E:function b8E(d,e){this.a=d
 this.b=e},
-b77:function b77(d){this.a=d},
-b6W:function b6W(d,e){this.a=d
+b8P:function b8P(d){this.a=d},
+b8D:function b8D(d,e){this.a=d
 this.b=e},
-aqS:function aqS(){},
-bNj(){return new A.uS(null)},
-uS:function uS(d){this.a=d},
-alr:function alr(d,e){var _=this
+arP:function arP(){},
+bPk(){return new A.v3(null)},
+v3:function v3(d){this.a=d},
+aml:function aml(d,e){var _=this
 _.d=d
 _.a=null
 _.b=e
 _.c=null},
-bb7:function bb7(d){this.a=d},
-bb6:function bb6(d,e){this.a=d
+bcQ:function bcQ(d){this.a=d},
+bcP:function bcP(d,e){this.a=d
 this.b=e},
-ar5:function ar5(){},
-bPf(){return new A.vt(null)},
-vt:function vt(d){this.a=d},
-aoL:function aoL(d,e,f,g,h,i){var _=this
+as2:function as2(){},
+bRi(){return new A.vF(null)},
+vF:function vF(d){this.a=d},
+apG:function apG(d,e,f,g,h,i){var _=this
 _.d=d
 _.e=e
 _.f=""
@@ -241,26 +209,26 @@ _.y=h
 _.a=null
 _.b=i
 _.c=null},
-bfS:function bfS(d){this.a=d},
-bfR:function bfR(d,e){this.a=d
+bhB:function bhB(d){this.a=d},
+bhA:function bhA(d,e){this.a=d
 this.b=e},
-bfO:function bfO(d,e){this.a=d
+bhx:function bhx(d,e){this.a=d
 this.b=e},
-bfT:function bfT(d){this.a=d},
-bfQ:function bfQ(d,e){this.a=d
+bhC:function bhC(d){this.a=d},
+bhz:function bhz(d,e){this.a=d
 this.b=e},
-bfN:function bfN(d,e,f){this.a=d
+bhw:function bhw(d,e,f){this.a=d
 this.b=e
 this.c=f},
-bfU:function bfU(d){this.a=d},
-bfP:function bfP(d,e){this.a=d
+bhD:function bhD(d){this.a=d},
+bhy:function bhy(d,e){this.a=d
 this.b=e},
-bfM:function bfM(d,e,f){this.a=d
+bhv:function bhv(d,e,f){this.a=d
 this.b=e
 this.c=f},
-arC:function arC(){},
-bxb(d,e,f){return new B.j(B.K(d.a,e.a,f.a),B.K(d.b,e.b,f.b))},
-bp2(d,e){return new B.fE(e,d,!0,null)}},C,N,I,E,F,O,L
+asA:function asA(){},
+bz0(d,e,f){return new B.i(B.K(d.a,e.a,f.a),B.K(d.b,e.b,f.b))},
+bqQ(d,e){return new B.fF(e,d,!0,null)}},C,N,I,E,F,O,L
 J=c[1]
 B=c[0]
 D=c[2]
@@ -285,31 +253,31 @@ E=c[14]
 F=c[48]
 O=c[35]
 L=c[22]
-A.Zd.prototype={
-C(d){return P.YG(null,null,D.cp,this.c,D.an,C.ajU)}}
-A.Jv.prototype={
-jr(d,e){return this.b.$3(d,e,this.c.jr(d,e))}}
-A.Ze.prototype={
+A.ZU.prototype={
+C(d){return P.Zl(null,null,D.cq,this.c,D.am,C.akc)}}
+A.JM.prototype={
+jA(d,e){return this.b.$3(d,e,this.c.jA(d,e))}}
+A.ZV.prototype={
 C(d){var x=null
-return B.ax(x,this.c,D.I,x,x,x,x,x,x,C.ajQ,x,x,x,x)}}
-A.BT.prototype={
-jr(d,e){var x,w,v,u=null
+return B.aw(x,this.c,D.H,x,x,x,x,x,x,C.ak8,x,x,x,x)}}
+A.C8.prototype={
+jA(d,e){var x,w,v,u=null
 switch(e.a){case 0:case 1:x=this.d
-w=x===D.as?28:0
-v=x===D.ah?28:0
-return new A.Ze(new B.dR(new B.ab(v,1/0,w,1/0),new B.m_(x,new B.l9(u,u,u,u),u),u),u)
-case 2:return new B.m_(D.ah,new B.l9(u,u,u,D.nJ),u)}}}
-A.Eu.prototype={
-U(){return new A.alp(null,null,D.C)},
-gl(d){return this.c}}
-A.alp.prototype={
-av(){var x,w=this
+w=x===D.ar?28:0
+v=x===D.a4?28:0
+return new A.ZV(new B.dV(new B.ad(v,1/0,w,1/0),new B.m2(x,new B.lf(u,u,u,u),u),u),u)
+case 2:return new B.m2(D.a4,new B.lf(u,u,u,D.nQ),u)}}}
+A.EI.prototype={
+T(){return new A.amj(null,null,D.C)},
+gk(d){return this.c}}
+A.amj.prototype={
+au(){var x,w=this
 w.aV()
-x=B.c0(null,D.yp,null,1,null,w)
+x=B.bX(null,D.yB,null,1,null,w)
 w.d=x
-if(w.a.c==null)x.N3(0)},
-aY(d){var x,w,v=this
-v.bn(d)
+if(w.a.c==null)x.Aj(0)},
+aX(d){var x,w,v=this
+v.bo(d)
 x=v.a.c==null
 if(x){w=v.d
 w===$&&B.b()
@@ -317,39 +285,39 @@ w=w.r
 w=!(w!=null&&w.a!=null)}else w=!1
 if(w){x=v.d
 x===$&&B.b()
-x.N3(0)}else{if(!x){x=v.d
+x.Aj(0)}else{if(!x){x=v.d
 x===$&&B.b()
 x=x.r
 x=x!=null&&x.a!=null}else x=!1
 if(x){x=v.d
 x===$&&B.b()
-x.jL(0)}}},
+x.iS(0)}}},
 n(){var x=this.d
 x===$&&B.b()
 x.n()
-this.aq5()},
+this.aqZ()},
 C(d){var x,w=null,v=d.D(y.E).w,u=this.a.c
-u=u==null?w:D.n.aM(u,2)
+u=u==null?w:D.n.aN(u,2)
 x=this.d
 x===$&&B.b()
-x=B.hU(x,new A.bb5(this,v),w)
-return B.ax(w,new B.bp(B.bI(w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,100,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,u),!1,!1,!1,!1,x,w),D.I,w,C.aaG,w,w,4.5,w,w,w,w,w,w)}}
-A.alo.prototype={
+x=B.hG(x,new A.bcO(this,v),w)
+return B.aw(w,new B.bn(B.bD(w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,100,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,w,u),!1,!1,!1,!1,x,w),D.H,w,C.aaY,w,w,4.5,w,w,w,w,w,w)}}
+A.ami.prototype={
 aU(d,e){var x,w,v,u,t,s,r=this,q={}
 q.a=e
 x=r.x/2
 w=e.a-x
 x=e.b-x
 q.a=new B.P(w,x)
-v=new A.bb2(q,r,d)
-v.$3(new B.j(0,x),new B.j(w,x),r.y)
+v=new A.bcL(q,r,d)
+v.$3(new B.i(0,x),new B.i(w,x),r.y)
 x=r.Q
 if(x!=null){w=q.a
-x=D.n.aX(x,0,1)
+x=D.n.aZ(x,0,1)
 q=q.a
-v.$3(new B.j(0,w.b),new B.j(x*q.a,q.b),r.z)
-return}q=new A.bb1(q)
-x=new A.bb0(r)
+v.$3(new B.i(0,w.b),new B.i(x*q.a,q.b),r.z)
+return}q=new A.bcK(q)
+x=new A.bcJ(r)
 u=x.$1(r.b)
 t=x.$1(r.c)
 x=r.e
@@ -359,312 +327,263 @@ if(w-s>=0.4||w===1)r.b=Math.min(s+2.7*u,1)}if(x===-1){w=r.c=Math.min(r.c+4.5*t,1
 s=r.b
 if(w-s>=0.6153846153846154||w===1)r.b=Math.min(s+4.5*u,1)}if(r.b===1){r.f=r.d
 r.e=x*-1
-r.c=r.b=0}new A.bb3(r).$0()
+r.c=r.b=0}new A.bcM(r).$0()
 if(r.f!==0)v.$3(q.$1(r.b),q.$1(r.c),r.z)},
-fZ(d){return!0},
-wQ(d){return!1},
-gl(d){return this.Q}}
-A.Wu.prototype={
-n(){var x=this,w=x.bQ$
-if(w!=null)w.N(0,x.ghG())
-x.bQ$=null
+fS(d){return!0},
+x7(d){return!1},
+gk(d){return this.Q}}
+A.Xa.prototype={
+n(){var x=this,w=x.bI$
+if(w!=null)w.M(0,x.ghw())
+x.bI$=null
 x.aS()},
-cs(){this.dG()
-this.dl()
-this.hH()}}
-A.YR.prototype={
-gaEH(){return 2*15},
-gaEu(){return 2*15},
-C(d){var x,w,v,u,t,s=null,r=B.a9(d),q=r.ay,p=q.e
+cz(){this.dz()
+this.df()
+this.hx()}}
+A.Zw.prototype={
+gaFQ(){return 2*15},
+gaFD(){return 2*15},
+C(d){var x,w,v,u,t,s=null,r=B.a8(d),q=r.ay,p=q.e
 q=p==null?q.c:p
 x=q
-w=r.p3.w.co(x)
+w=r.p3.w.ct(x)
 q=r.ay
 p=q.d
 q=p==null?q.b:p
 v=q
 if(v==null){q=w.b
 q.toString
-switch(B.FO(q).a){case 0:v=r.go
+switch(B.G1(q).a){case 0:v=r.go
 break
 case 1:v=r.fy
 break}}else if(x==null){null.toString
-switch(B.FO(null).a){case 0:w.co(r.go)
+switch(B.G1(null).a){case 0:w.ct(r.go)
 break
-case 1:w.co(r.fy)
-break}}u=this.gaEH()
-t=this.gaEu()
-return B.l5(s,s,new B.ab(u,t,u,t),D.aL,new B.aT(v,s,s,s,s,s,s,D.eB),D.aO,s,s,s,s,s,s,s)}}
-A.NT.prototype={
-saOI(d,e){if(this.E===e)return
-this.E=e
-this.ao()},
-ca(d){var x
-if(isFinite(d))return d*this.E
-x=this.db$
-if(x!=null)return x.aW(D.b1,d,x.gc9())
-return 0},
-bX(d){var x
-if(isFinite(d))return d*this.E
-x=this.db$
-if(x!=null)return x.aW(D.bj,d,x.gcl())
-return 0},
-c6(d){var x
-if(isFinite(d))return d/this.E
-x=this.db$
-if(x!=null)return x.aW(D.bL,d,x.gcz())
-return 0},
-c5(d){var x
-if(isFinite(d))return d/this.E
-x=this.db$
-if(x!=null)return x.aW(D.c4,d,x.gcK())
-return 0},
-a0r(d){var x,w,v,u,t=d.a,s=d.b
-if(t>=s&&d.c>=d.d)return new B.P(B.K(0,t,s),B.K(0,d.c,d.d))
-x=this.E
-if(isFinite(s)){w=s/x
-v=s}else{w=d.d
-v=w*x}if(v>s)w=s/x
-else s=v
-u=d.d
-if(w>u){s=u*x
-w=u}if(s<t)w=t/x
-else t=s
-u=d.c
-if(w<u){t=u*x
-w=u}return d.bS(new B.P(t,w))},
-dP(d){return this.a0r(d)},
-cm(){var x,w=this
-w.id=w.a0r(y.k.a(B.v.prototype.gab.call(w)))
-x=w.db$
-if(x!=null)x.iE(B.wH(w.gu(0)))}}
-A.XQ.prototype={
-bi(d){var x=new A.NT(this.e,null,B.au(y.v))
-x.bh()
-x.sbw(null)
-return x},
-bo(d,e){e.saOI(0,this.e)}}
-A.akJ.prototype={
-aU(d,e){var x,w,v,u=$.as(),t=u.bR()
-t.sad(0,this.b)
-t.sd8(0,D.bo)
-t.sj1(this.c)
+case 1:w.ct(r.fy)
+break}}u=this.gaFQ()
+t=this.gaFD()
+return B.lb(s,s,new B.ad(u,t,u,t),D.aO,new B.aU(v,s,s,s,s,s,s,D.eD),D.aL,s,s,s,s,s,s,s)}}
+A.alD.prototype={
+aU(d,e){var x,w,v,u=$.aj(),t=u.bR()
+t.sae(0,this.b)
+t.sd2(0,D.bf)
+t.siA(this.c)
 x=0+e.a
 w=0+e.b
-v=u.cA()
-v.nY(new B.x(0,0,x,w))
+v=u.bS()
+v.ob(new B.v(0,0,x,w))
 u=y.g
-v.U6(B.a([new B.j(x,0),new B.j(0,w)],u),!1)
-v.U6(B.a([new B.j(0,0),new B.j(x,w)],u),!1)
-d.dV(v,t)},
-fZ(d){return!d.b.k(0,this.b)||d.c!==this.c},
-zd(d){return!1}}
-A.a8d.prototype={
+v.UL(B.a([new B.i(x,0),new B.i(0,w)],u),!1)
+v.UL(B.a([new B.i(0,0),new B.i(x,w)],u),!1)
+d.cE(v,t)},
+fS(d){return!d.b.l(0,this.b)||d.c!==this.c},
+zy(d){return!1}}
+A.a8Y.prototype={
 C(d){var x=null
-return B.bwp(B.hX(x,x,x,new A.akJ(C.agd,2,x),D.a76),400,400)}}
-A.tp.prototype={
-U(){return new A.aeP(D.C)}}
-A.aeP.prototype={
-C(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=d.D(y.E).w.z.a,l=B.L(166,m>>>16&255,m>>>8&255,m&255)
-m=o.bs(C.c3W)
-x=o.bs(C.c3F)
+return B.bye(B.hI(x,x,x,new A.alD(C.agw,2,x),D.a7q),400,400)}}
+A.tA.prototype={
+T(){return new A.afB(D.C)}}
+A.afB.prototype={
+C(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=d.D(y.E).w.z.a,l=B.H(166,m>>>16&255,m>>>8&255,m&255)
+m=o.bu(C.c4w)
+x=o.bu(C.c4f)
 w=o.d
 v=o.e
 u=y.p
-w=B.bB(new B.d7(D.b4,n,D.b5,D.a1,B.a([C.a90,B.pe(0,new B.ag(D.f4,B.XA(o.f,n,o.r,v,n,o.w,w),n),0)],u),n),1)
-v=A.br6("Tint color","the color/tint overlay layer.")
+w=B.bA(new B.da(D.b4,n,D.b5,D.a1,B.a([C.a9i,B.pj(0,new B.ag(D.f8,B.Yg(o.f,n,o.r,v,n,o.w,w),n),0)],u),n),1)
+v=A.bsV("Tint color","the color/tint overlay layer.")
 t=o.w
 s=y.G
-r=B.a([B.fB(B.aQ(B.a([o.td(l),O.e8,C.c4N],u),D.L,n,D.G,D.N,n,n,D.D),l,s),B.fB(B.aQ(B.a([o.td(D.T),O.e8,I.a7R],u),D.L,n,D.G,D.N,n,n,D.D),D.T,s),B.fB(B.aQ(B.a([o.td(D.jh),O.e8,I.a7K],u),D.L,n,D.G,D.N,n,n,D.D),D.jh,s)],y.u)
-$.lT()
-D.f.M(r,B.fr(8,new A.aXY(o),!0,y.d))
-v=A.bp2(B.ip(!1,n,8,n,n,D.cm,n,n,8,!1,r,n,new A.aXZ(o),n,C.c6Z,n,n,n,t,s),v)
-s=A.br6("Tint opacity","the opacity of the tint layer.")
-s=A.bp2(K.zP(n,1,0,new A.aY_(o),o.d,!1),s)
-t=A.br6("Tint luminosity opacity","controls the amount of saturation that is allowed through the acrylic surface from the background.")
-t=A.bp2(K.zP(n,1,0,new A.aY0(o),o.e,!1),t)
-r=K.zP(n,100,0,new A.aY1(o),o.f,!1)
-q=B.bH(n,n,"Blur amount")
-p=K.zP(n,20,0,new A.aY2(o),o.r,!1)
-return B.f0(n,B.a([C.c76,m,C.acZ,x,P.YG(n,n,D.cp,new B.aJ(500,300,B.aQ(B.a([w,B.bs(B.a([v,s,t,new B.fE(q,r,!0,n),new B.fE(B.bH(n,n,"Elevation"),p,!0,n)],u),D.aA,n,D.G,D.N,n,n,D.D)],u),D.L,n,D.G,D.N,n,n,D.D),n),n,D.f4)],u),C.bTf)},
-td(d){var x=null
-return B.ax(x,x,D.I,x,x,new B.aT(d,x,x,B.cv(4),x,x,x,D.a7),x,16,x,x,x,x,x,16)}}
-A.aeN.prototype={
+r=B.a([B.fC(B.aS(B.a([o.tq(l),O.eb,C.c5n],u),D.L,n,D.G,D.N,n,n,D.D),l,s),B.fC(B.aS(B.a([o.tq(D.T),O.eb,I.a8a],u),D.L,n,D.G,D.N,n,n,D.D),D.T,s),B.fC(B.aS(B.a([o.tq(D.jo),O.eb,I.a83],u),D.L,n,D.G,D.N,n,n,D.D),D.jo,s)],y.u)
+$.lW()
+D.f.N(r,B.f_(8,new A.aZC(o),!0,y.d))
+v=A.bqQ(B.it(!1,n,8,n,n,D.cn,n,n,8,!1,r,n,new A.aZD(o),n,C.c7z,n,n,n,t,s),v)
+s=A.bsV("Tint opacity","the opacity of the tint layer.")
+s=A.bqQ(K.A3(n,1,0,new A.aZE(o),o.d,!1),s)
+t=A.bsV("Tint luminosity opacity","controls the amount of saturation that is allowed through the acrylic surface from the background.")
+t=A.bqQ(K.A3(n,1,0,new A.aZF(o),o.e,!1),t)
+r=K.A3(n,100,0,new A.aZG(o),o.f,!1)
+q=B.bJ(n,n,"Blur amount")
+p=K.A3(n,20,0,new A.aZH(o),o.r,!1)
+return B.f4(n,B.a([C.c7H,m,C.adf,x,P.Zl(n,n,D.cq,new B.aJ(500,300,B.aS(B.a([w,B.bt(B.a([v,s,t,new B.fF(q,r,!0,n),new B.fF(B.bJ(n,n,"Elevation"),p,!0,n)],u),D.aB,n,D.G,D.N,n,n,D.D)],u),D.L,n,D.G,D.N,n,n,D.D),n),n,D.f8)],u),C.bTK)},
+tq(d){var x=null
+return B.aw(x,x,D.H,x,x,new B.aU(d,x,x,B.cA(4),x,x,x,D.a8),x,16,x,x,x,x,x,16)}}
+A.afz.prototype={
 C(d){var x=null
-return new B.d7(D.b4,x,D.b5,D.a1,B.a([B.ax(x,x,D.I,$.B6().gWG(),x,x,x,200,x,x,x,x,x,100),new B.cW(D.fT,x,x,B.ax(x,x,D.I,$.asC(),x,x,x,152,x,x,x,x,x,152),x),new B.cW(C.a9C,x,x,B.ax(x,x,D.I,$.bn9(),x,x,x,100,x,x,x,x,x,80),x)],y.p),x)}}
-A.aqm.prototype={}
-A.tJ.prototype={
-U(){return A.bQM()}}
-A.ag1.prototype={
-C(c3){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2=this,b3=null,b4=b2.d,b5=y.e,b6=W.p5(E.fC(b3,D.ah,b3,D.bf,F.eE,D.bf,B.I(b4,!0,b5),F.cG),C.c6w),b7=b2.bs(C.c71),b8=E.fC(b3,D.ah,b3,D.G,F.i8,D.bf,B.I(b4,!0,b5),F.cG),b9=b2.bs(C.c6z),c0=E.fC(b3,D.as,b3,D.G,F.i8,D.bf,B.I(b4,!0,b5),F.cG),c1=b2.bs(C.c7B),c2=B.I(b4,!0,b5)
-c2.push(C.dl)
+return new B.da(D.b4,x,D.b5,D.a1,B.a([B.aw(x,x,D.H,$.Bn().gXl(),x,x,x,200,x,x,x,x,x,100),new B.cZ(D.fW,x,x,B.aw(x,x,D.H,$.atA(),x,x,x,152,x,x,x,x,x,152),x),new B.cZ(C.a9V,x,x,B.aw(x,x,D.H,$.boY(),x,x,x,100,x,x,x,x,x,80),x)],y.p),x)}}
+A.ari.prototype={}
+A.tT.prototype={
+T(){return A.bSS()}}
+A.agQ.prototype={
+C(c3){var x,w,v,u,t,s,r,q,p,o,n,m,l,k,j,i,h,g,f,e,d,a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,b0,b1,b2=this,b3=null,b4=b2.d,b5=y.k,b6=W.pa(E.fD(b3,D.a4,b3,D.bj,F.eG,D.bj,B.J(b4,!0,b5),F.cI),C.c76),b7=b2.bu(C.c7C),b8=E.fD(b3,D.a4,b3,D.G,F.ic,D.bj,B.J(b4,!0,b5),F.cI),b9=b2.bu(C.c79),c0=E.fD(b3,D.ar,b3,D.G,F.ic,D.bj,B.J(b4,!0,b5),F.cI),c1=b2.bu(C.c8b),c2=B.J(b4,!0,b5)
+c2.push(C.dm)
 x=b2.e
-D.f.M(c2,x)
-c2=E.fC(600,D.ah,b3,D.G,F.nE,D.bf,c2,F.cG)
-w=b2.bs(C.c6a)
-v=B.I(b4,!0,b5)
-v.push(C.yb)
-D.f.M(v,x)
-v=E.fC(600,D.as,b3,D.G,F.nE,D.bf,v,F.cG)
-u=b2.bs(C.c73)
-t=B.I(b4,!0,b5)
-t.push(C.dl)
-D.f.M(t,x)
-t=A.wR(E.fC(b3,D.ah,!0,D.G,F.Fs,D.bf,t,F.cG))
-s=b2.bs(C.c67)
-r=B.I(b4,!0,b5)
-r.push(C.dl)
-D.f.M(r,x)
-r=A.wR(E.fC(b3,D.as,!0,D.G,F.Fs,D.bf,r,F.cG))
-q=b2.bs(C.c7u)
-p=B.I(b4,!0,b5)
-p.push(C.dl)
-D.f.M(p,x)
-p.push(C.dl)
+D.f.N(c2,x)
+c2=E.fD(600,D.a4,b3,D.G,F.nK,D.bj,c2,F.cI)
+w=b2.bu(C.c6L)
+v=B.J(b4,!0,b5)
+v.push(C.yo)
+D.f.N(v,x)
+v=E.fD(600,D.ar,b3,D.G,F.nK,D.bj,v,F.cI)
+u=b2.bu(C.c7E)
+t=B.J(b4,!0,b5)
+t.push(C.dm)
+D.f.N(t,x)
+t=A.x2(E.fD(b3,D.a4,!0,D.G,F.FN,D.bj,t,F.cI))
+s=b2.bu(C.c6I)
+r=B.J(b4,!0,b5)
+r.push(C.dm)
+D.f.N(r,x)
+r=A.x2(E.fD(b3,D.ar,!0,D.G,F.FN,D.bj,r,F.cI))
+q=b2.bu(C.c84)
+p=B.J(b4,!0,b5)
+p.push(C.dm)
+D.f.N(p,x)
+p.push(C.dm)
 o=b2.f
-D.f.M(p,o)
-p=A.wR(E.fC(b3,D.ah,b3,D.G,F.eE,D.bf,p,F.cG))
-n=b2.bs(C.c65)
-m=B.I(b4,!0,b5)
-m.push(C.dl)
-D.f.M(m,x)
-m.push(C.dl)
-D.f.M(m,o)
-m=A.wR(E.fC(b3,D.as,b3,D.G,F.eE,D.bf,m,F.cG))
-l=b2.bs(C.c6u)
-k=B.I(b4,!0,b5)
-k.push(C.dl)
-D.f.M(k,x)
-k.push(C.dl)
-D.f.M(k,o)
-k=E.fC(900,D.ah,b3,D.bf,F.eE,D.bf,k,F.cG)
-j=b2.bs(C.c6X)
-i=B.I(b4,!0,b5)
-i.push(C.dl)
-D.f.M(i,x)
-i.push(C.dl)
-D.f.M(i,o)
-i=E.fC(900,D.as,b3,D.bf,F.eE,D.bf,i,F.cG)
-h=b2.bs(C.c3z)
-g=B.I(b4,!0,b5)
-g.push(C.dl)
-D.f.M(g,x)
-g=E.fC(b3,D.ah,b3,D.bf,F.eE,D.bf,g,o)
-f=b2.bs(C.c7e)
-e=B.I(b4,!0,b5)
-e.push(C.dl)
-D.f.M(e,x)
-e=E.fC(b3,D.as,b3,D.bf,F.eE,D.bf,e,o)
-d=b2.bs(C.c53)
-a0=E.fC(b3,D.ah,b3,D.G,F.nE,D.bf,b4,x)
-a1=b2.bs(C.c7J)
-a2=E.fC(b3,D.as,b3,D.G,F.nE,D.bf,b4,x)
-a3=b2.bs(C.c75)
-a4=B.I(b4,!0,b5)
-a4.push(C.dl)
-D.f.M(a4,x)
+D.f.N(p,o)
+p=A.x2(E.fD(b3,D.a4,b3,D.G,F.eG,D.bj,p,F.cI))
+n=b2.bu(C.c6G)
+m=B.J(b4,!0,b5)
+m.push(C.dm)
+D.f.N(m,x)
+m.push(C.dm)
+D.f.N(m,o)
+m=A.x2(E.fD(b3,D.ar,b3,D.G,F.eG,D.bj,m,F.cI))
+l=b2.bu(C.c74)
+k=B.J(b4,!0,b5)
+k.push(C.dm)
+D.f.N(k,x)
+k.push(C.dm)
+D.f.N(k,o)
+k=E.fD(900,D.a4,b3,D.bj,F.eG,D.bj,k,F.cI)
+j=b2.bu(C.c7x)
+i=B.J(b4,!0,b5)
+i.push(C.dm)
+D.f.N(i,x)
+i.push(C.dm)
+D.f.N(i,o)
+i=E.fD(900,D.ar,b3,D.bj,F.eG,D.bj,i,F.cI)
+h=b2.bu(C.c49)
+g=B.J(b4,!0,b5)
+g.push(C.dm)
+D.f.N(g,x)
+g=E.fD(b3,D.a4,b3,D.bj,F.eG,D.bj,g,o)
+f=b2.bu(C.c7P)
+e=B.J(b4,!0,b5)
+e.push(C.dm)
+D.f.N(e,x)
+e=E.fD(b3,D.ar,b3,D.bj,F.eG,D.bj,e,o)
+d=b2.bu(C.c5E)
+a0=E.fD(b3,D.a4,b3,D.G,F.nK,D.bj,b4,x)
+a1=b2.bu(C.c8j)
+a2=E.fD(b3,D.ar,b3,D.G,F.nK,D.bj,b4,x)
+a3=b2.bu(C.c7G)
+a4=B.J(b4,!0,b5)
+a4.push(C.dm)
+D.f.N(a4,x)
 a5=y.P
 a6=y.p
-a4=A.wR(B.aQ(B.a([B.bB(E.fC(b3,D.ah,b3,D.G,F.Fr,D.bf,a4,F.cG),1),E.fC(b3,D.ah,b3,D.G,F.i8,D.bf,B.a([E.f6(C.oc,b3,new A.b1p())],a5),F.cG)],a6),D.L,b3,D.G,D.N,b3,b3,D.D))
-a7=b2.bs(C.c4o)
-a8=B.I(b4,!0,b5)
-a8.push(C.yb)
-D.f.M(a8,x)
-a8=A.wR(B.bs(B.a([B.bB(E.fC(b3,D.as,b3,D.G,F.Fr,D.bf,a8,F.cG),1),E.fC(b3,D.as,b3,D.G,F.i8,D.bf,B.a([E.f6(C.oc,b3,new A.b1q())],a5),F.cG)],a6),D.L,b3,D.G,D.N,b3,b3,D.D))
-a9=b2.bs(C.c4J)
-b0=B.I(b4,!0,b5)
-b0.push(C.dl)
-D.f.M(b0,x)
-b0=A.wR(B.aQ(B.a([B.bB(E.fC(b3,D.ah,b3,D.G,F.eE,D.bf,b0,o),1),E.fC(b3,D.ah,b3,D.G,F.i8,D.bf,B.a([E.f6(C.oc,b3,new A.b1r())],a5),F.cG)],a6),D.L,b3,D.G,D.N,b3,b3,D.D))
-b1=b2.bs(C.c87)
-b5=B.I(b4,!0,b5)
-b5.push(C.yb)
-D.f.M(b5,x)
-return B.f0(b3,B.a([C.c6N,b7,new G.b7(b3,b8,"/// Define list of CommandBarItem\nfinal simpleCommandBarItems = <CommandBarItem>[\n  CommandBarBuilderItem(\n    builder: (context, mode, w) => Tooltip(\n      message: \"Create something new!\",\n      child: w,\n    ),\n    wrappedItem: CommandBarButton(\n      icon: const Icon(FluentIcons.add),\n      label: const Text('New'),\n      onPressed: () {},\n    ),\n  ),\n  CommandBarBuilderItem(\n    builder: (context, mode, w) => Tooltip(\n      message: \"Delete what is currently selected!\",\n      child: w,\n    ),\n    wrappedItem: CommandBarButton(\n      icon: const Icon(FluentIcons.delete),\n      label: const Text('Delete'),\n      onPressed: () {},\n    ),\n  ),\n  CommandBarButton(\n    icon: const Icon(FluentIcons.archive),\n    label: const Text('Archive'),\n    onPressed: () {},\n  ),\n  CommandBarButton(\n    icon: const Icon(FluentIcons.move),\n    label: const Text('Move'),\n    onPressed: () {},\n  ),\n  const CommandBarButton(\n    icon: Icon(FluentIcons.cancel),\n    label: Text('Disabled'),\n    onPressed: null,\n  ),\n];\n\n/// Generate CommandBar with different properties like overflowBehavior\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.noWrap,\n  primaryItems: [\n    ...simpleCommandBarItems,\n  ],\n);\n",b3,b3),b9,new G.b7(b3,c0,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\n/// Generate CommandBar with different properties like overflowBehavior\nCommandBar(\n  direction: Axis.vertical,\n  overflowBehavior: CommandBarOverflowBehavior.noWrap,\n  primaryItems: [\n    ...simpleCommandBarItems,\n  ],\n);\n",b3,b3),c1,new G.b7(b3,c2,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.wrap,\n  compactBreakpointWidth: 600,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n  ],\n);\n",b3,b3),w,new G.b7(b3,new B.dR(C.ja,v,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    overflowBehavior: CommandBarOverflowBehavior.wrap,\n    compactBreakpointWidth: 600,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(direction: Axis.horizontal),\n      ...moreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),u,new G.b7(b3,new B.dR(C.aaA,t,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxWidth: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      overflowBehavior: CommandBarOverflowBehavior.clip,\n      isCompact: true,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),s,new G.b7(b3,new B.dR(C.ja,r,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      direction: Axis.vertical,\n      overflowBehavior: CommandBarOverflowBehavior.clip,\n      isCompact: true,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),q,new G.b7(b3,p,"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\nCommandBarCard(\n  child: CommandBar(\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n      const CommandBarSeparator(),\n      ...evenMoreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),n,new G.b7(b3,new B.dR(C.ja,m,b3),"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      direction: Axis.vertical,\n      overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n        const CommandBarSeparator(),\n        ...evenMoreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),l,new G.b7(b3,k,"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\n\nCommandBar(\n  mainAxisAlignment: MainAxisAlignment.end,\n  overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n  compactBreakpointWidth: 900,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n    const CommandBarSeparator(),\n    ...evenMoreCommandBarItems,\n  ],\n);\n",b3,b3),j,new G.b7(b3,new B.dR(C.ja,i,b3),"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    mainAxisAlignment: MainAxisAlignment.end,\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    compactBreakpointWidth: 900,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n      const CommandBarSeparator(),\n      ...evenMoreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),h,new G.b7(b3,g,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  mainAxisAlignment: MainAxisAlignment.end,\n  overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n  ],\n  secondaryItems: evenMoreCommandBarItems,\n);\n",b3,b3),f,new G.b7(b3,new B.dR(C.ja,e,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    mainAxisAlignment: MainAxisAlignment.end,\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n    ],\n    secondaryItems: evenMoreCommandBarItems,\n  ),\n);\n",b3,b3),d,new G.b7(b3,a0,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.wrap,\n  primaryItems: simpleCommandBarItems,\n  secondaryItems: moreCommandBarItems,\n);\n",b3,b3),a1,new G.b7(b3,new B.dR(C.ja,a2,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    overflowBehavior: CommandBarOverflowBehavior.wrap,\n    primaryItems: simpleCommandBarItems,\n    secondaryItems: moreCommandBarItems,\n  ),\n);\n",b3,b3),a3,new G.b7(b3,a4,"CommandBarCard(\n    child: Row(children: [\n      Expanded(\n        child: CommandBar(\n          overflowBehavior: CommandBarOverflowBehavior.scrolling,\n          primaryItems: [\n            ...simpleCommandBarItems,\n            const CommandBarSeparator(),\n            ...moreCommandBarItems,\n          ],\n        ),\n      ),\n      // End-aligned button(s)\n      CommandBar(\n        overflowBehavior: CommandBarOverflowBehavior.noWrap,\n        primaryItems: [\n          CommandBarButton(\n            icon: const Icon(FluentIcons.refresh),\n            onPressed: () {},\n          ),\n        ],\n      ),\n    ],\n  ),\n);\n",b3,b3),a7,new G.b7(b3,new B.dR(C.aaw,a8,b3),"ConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230, maxWidth: 48),\n  child: CommandBarCard(\n    child: Column(\n      children: [\n        Expanded(\n          child: CommandBar(\n            direction: Axis.vertical,\n            overflowBehavior: CommandBarOverflowBehavior.scrolling,\n            primaryItems: [\n              ...simpleCommandBarItems,\n              const CommandBarSeparator(direction: Axis.horizontal),\n              ...moreCommandBarItems,\n            ],\n          ),\n        ),\n        // End-aligned button(s)\n        CommandBar(\n          direction: Axis.vertical,\n          overflowBehavior: CommandBarOverflowBehavior.noWrap,\n          primaryItems: [\n            CommandBarButton(\n              icon: const Icon(FluentIcons.refresh),\n              onPressed: () {},\n            ),\n          ],\n        ),\n      ],\n    ),\n  ),\n);\n",b3,b3),a9,new G.b7(b3,b0,"CommandBarCard(\n  child: Row(\n    children: [\n      Expanded(\n        child: CommandBar(\n          overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n          overflowItemAlignment: MainAxisAlignment.end,\n          primaryItems: [\n            ...simpleCommandBarItems,\n            const CommandBarSeparator(),\n            ...moreCommandBarItems,\n          ],\n          secondaryItems: evenMoreCommandBarItems,\n        ),\n      ),\n      // End-aligned button(s)\n      CommandBar(\n        overflowBehavior: CommandBarOverflowBehavior.noWrap,\n        primaryItems: [\n          CommandBarButton(\n            icon: const Icon(FluentIcons.refresh),\n            onPressed: () {},\n          ),\n        ],\n      ),\n    ],\n  ),\n);\n",b3,b3),b1,new G.b7(b3,new B.dR(C.aax,A.wR(B.bs(B.a([B.bB(E.fC(b3,D.as,b3,D.G,F.eE,D.bf,b5,o),1),E.fC(b3,D.as,b3,D.G,F.i8,D.bf,B.a([E.f6(C.oc,b3,new A.b1s())],a5),F.cG)],a6),D.L,b3,D.G,D.N,b3,b3,D.D)),b3),"ConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 330),\n  child: CommandBarCard(\n    child: Column(\n      children: [\n        Expanded(\n          child: CommandBar(\n            direction: Axis.vertical,\n            overflowBehavior:\n                CommandBarOverflowBehavior.dynamicOverflow,\n            overflowItemAlignment: MainAxisAlignment.end,\n            primaryItems: [\n              ...simpleCommandBarItems,\n              const CommandBarSeparator(direction: Axis.horizontal),\n              ...moreCommandBarItems,\n            ],\n            secondaryItems: evenMoreCommandBarItems,\n          ),\n        ),\n        // End-aligned button(s)\n        CommandBar(\n          direction: Axis.vertical,\n          overflowBehavior: CommandBarOverflowBehavior.noWrap,\n          primaryItems: [\n            CommandBarButton(\n              icon: const Icon(FluentIcons.refresh),\n              onPressed: () {},\n            ),\n          ],\n        ),\n      ],\n    ),\n  ),\n);\n",b3,b3)],a6),b6)}}
-A.aqx.prototype={}
-A.tV.prototype={
-U(){var x=y.s
-return new A.ahL(new B.ar("Expander key",y.M),B.a(["Classic","Whole wheat","Gluten free"],x),B.a(["Regular","Thin","Pan","Stuffed"],x),D.C)}}
-A.ahL.prototype={
-C(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=o.d,l=m.gZ()
+a4=A.x2(B.aS(B.a([B.bA(E.fD(b3,D.a4,b3,D.G,F.FM,D.bj,a4,F.cI),1),E.fD(b3,D.a4,b3,D.G,F.ic,D.bj,B.a([E.fb(C.oj,b3,new A.b37())],a5),F.cI)],a6),D.L,b3,D.G,D.N,b3,b3,D.D))
+a7=b2.bu(C.c4Z)
+a8=B.J(b4,!0,b5)
+a8.push(C.yo)
+D.f.N(a8,x)
+a8=A.x2(B.bt(B.a([B.bA(E.fD(b3,D.ar,b3,D.G,F.FM,D.bj,a8,F.cI),1),E.fD(b3,D.ar,b3,D.G,F.ic,D.bj,B.a([E.fb(C.oj,b3,new A.b38())],a5),F.cI)],a6),D.L,b3,D.G,D.N,b3,b3,D.D))
+a9=b2.bu(C.c5j)
+b0=B.J(b4,!0,b5)
+b0.push(C.dm)
+D.f.N(b0,x)
+b0=A.x2(B.aS(B.a([B.bA(E.fD(b3,D.a4,b3,D.G,F.eG,D.bj,b0,o),1),E.fD(b3,D.a4,b3,D.G,F.ic,D.bj,B.a([E.fb(C.oj,b3,new A.b39())],a5),F.cI)],a6),D.L,b3,D.G,D.N,b3,b3,D.D))
+b1=b2.bu(C.c8I)
+b5=B.J(b4,!0,b5)
+b5.push(C.yo)
+D.f.N(b5,x)
+return B.f4(b3,B.a([C.c7n,b7,new G.b8(b3,b8,"/// Define list of CommandBarItem\nfinal simpleCommandBarItems = <CommandBarItem>[\n  CommandBarBuilderItem(\n    builder: (context, mode, w) => Tooltip(\n      message: \"Create something new!\",\n      child: w,\n    ),\n    wrappedItem: CommandBarButton(\n      icon: const Icon(FluentIcons.add),\n      label: const Text('New'),\n      onPressed: () {},\n    ),\n  ),\n  CommandBarBuilderItem(\n    builder: (context, mode, w) => Tooltip(\n      message: \"Delete what is currently selected!\",\n      child: w,\n    ),\n    wrappedItem: CommandBarButton(\n      icon: const Icon(FluentIcons.delete),\n      label: const Text('Delete'),\n      onPressed: () {},\n    ),\n  ),\n  CommandBarButton(\n    icon: const Icon(FluentIcons.archive),\n    label: const Text('Archive'),\n    onPressed: () {},\n  ),\n  CommandBarButton(\n    icon: const Icon(FluentIcons.move),\n    label: const Text('Move'),\n    onPressed: () {},\n  ),\n  const CommandBarButton(\n    icon: Icon(FluentIcons.cancel),\n    label: Text('Disabled'),\n    onPressed: null,\n  ),\n];\n\n/// Generate CommandBar with different properties like overflowBehavior\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.noWrap,\n  primaryItems: [\n    ...simpleCommandBarItems,\n  ],\n);\n",b3,b3),b9,new G.b8(b3,c0,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\n/// Generate CommandBar with different properties like overflowBehavior\nCommandBar(\n  direction: Axis.vertical,\n  overflowBehavior: CommandBarOverflowBehavior.noWrap,\n  primaryItems: [\n    ...simpleCommandBarItems,\n  ],\n);\n",b3,b3),c1,new G.b8(b3,c2,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.wrap,\n  compactBreakpointWidth: 600,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n  ],\n);\n",b3,b3),w,new G.b8(b3,new B.dV(C.jh,v,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    overflowBehavior: CommandBarOverflowBehavior.wrap,\n    compactBreakpointWidth: 600,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(direction: Axis.horizontal),\n      ...moreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),u,new G.b8(b3,new B.dV(C.aaS,t,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxWidth: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      overflowBehavior: CommandBarOverflowBehavior.clip,\n      isCompact: true,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),s,new G.b8(b3,new B.dV(C.jh,r,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      direction: Axis.vertical,\n      overflowBehavior: CommandBarOverflowBehavior.clip,\n      isCompact: true,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),q,new G.b8(b3,p,"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\nCommandBarCard(\n  child: CommandBar(\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n      const CommandBarSeparator(),\n      ...evenMoreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),n,new G.b8(b3,new B.dV(C.jh,m,b3),"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBarCard(\n    child: CommandBar(\n      direction: Axis.vertical,\n      overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n      primaryItems: [\n        ...simpleCommandBarItems,\n        const CommandBarSeparator(),\n        ...moreCommandBarItems,\n        const CommandBarSeparator(),\n        ...evenMoreCommandBarItems,\n      ],\n    ),\n  ),\n);\n",b3,b3),l,new G.b8(b3,k,"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\n\nCommandBar(\n  mainAxisAlignment: MainAxisAlignment.end,\n  overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n  compactBreakpointWidth: 900,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n    const CommandBarSeparator(),\n    ...evenMoreCommandBarItems,\n  ],\n);\n",b3,b3),j,new G.b8(b3,new B.dV(C.jh,i,b3),"/// Create different lists of CommandBarItem\n/// named simpleCommandBarItems, moreCommandBarItems, evenMoreCommandBarItems\n/// These lists can be used as primaryItems as shown\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    mainAxisAlignment: MainAxisAlignment.end,\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    compactBreakpointWidth: 900,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n      const CommandBarSeparator(),\n      ...evenMoreCommandBarItems,\n    ],\n  ),\n);\n",b3,b3),h,new G.b8(b3,g,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  mainAxisAlignment: MainAxisAlignment.end,\n  overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n  primaryItems: [\n    ...simpleCommandBarItems,\n    const CommandBarSeparator(),\n    ...moreCommandBarItems,\n  ],\n  secondaryItems: evenMoreCommandBarItems,\n);\n",b3,b3),f,new G.b8(b3,new B.dV(C.jh,e,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    mainAxisAlignment: MainAxisAlignment.end,\n    overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n    primaryItems: [\n      ...simpleCommandBarItems,\n      const CommandBarSeparator(),\n      ...moreCommandBarItems,\n    ],\n    secondaryItems: evenMoreCommandBarItems,\n  ),\n);\n",b3,b3),d,new G.b8(b3,a0,"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nCommandBar(\n  overflowBehavior: CommandBarOverflowBehavior.wrap,\n  primaryItems: simpleCommandBarItems,\n  secondaryItems: moreCommandBarItems,\n);\n",b3,b3),a1,new G.b8(b3,new B.dV(C.jh,a2,b3),"/// Lists of CommandBarItem named as simpleCommandBarItems and moreCommandBarItems\n/// Used as following\n\nConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230),\n  child: CommandBar(\n    direction: Axis.vertical,\n    overflowBehavior: CommandBarOverflowBehavior.wrap,\n    primaryItems: simpleCommandBarItems,\n    secondaryItems: moreCommandBarItems,\n  ),\n);\n",b3,b3),a3,new G.b8(b3,a4,"CommandBarCard(\n    child: Row(children: [\n      Expanded(\n        child: CommandBar(\n          overflowBehavior: CommandBarOverflowBehavior.scrolling,\n          primaryItems: [\n            ...simpleCommandBarItems,\n            const CommandBarSeparator(),\n            ...moreCommandBarItems,\n          ],\n        ),\n      ),\n      // End-aligned button(s)\n      CommandBar(\n        overflowBehavior: CommandBarOverflowBehavior.noWrap,\n        primaryItems: [\n          CommandBarButton(\n            icon: const Icon(FluentIcons.refresh),\n            onPressed: () {},\n          ),\n        ],\n      ),\n    ],\n  ),\n);\n",b3,b3),a7,new G.b8(b3,new B.dV(C.aaO,a8,b3),"ConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 230, maxWidth: 48),\n  child: CommandBarCard(\n    child: Column(\n      children: [\n        Expanded(\n          child: CommandBar(\n            direction: Axis.vertical,\n            overflowBehavior: CommandBarOverflowBehavior.scrolling,\n            primaryItems: [\n              ...simpleCommandBarItems,\n              const CommandBarSeparator(direction: Axis.horizontal),\n              ...moreCommandBarItems,\n            ],\n          ),\n        ),\n        // End-aligned button(s)\n        CommandBar(\n          direction: Axis.vertical,\n          overflowBehavior: CommandBarOverflowBehavior.noWrap,\n          primaryItems: [\n            CommandBarButton(\n              icon: const Icon(FluentIcons.refresh),\n              onPressed: () {},\n            ),\n          ],\n        ),\n      ],\n    ),\n  ),\n);\n",b3,b3),a9,new G.b8(b3,b0,"CommandBarCard(\n  child: Row(\n    children: [\n      Expanded(\n        child: CommandBar(\n          overflowBehavior: CommandBarOverflowBehavior.dynamicOverflow,\n          overflowItemAlignment: MainAxisAlignment.end,\n          primaryItems: [\n            ...simpleCommandBarItems,\n            const CommandBarSeparator(),\n            ...moreCommandBarItems,\n          ],\n          secondaryItems: evenMoreCommandBarItems,\n        ),\n      ),\n      // End-aligned button(s)\n      CommandBar(\n        overflowBehavior: CommandBarOverflowBehavior.noWrap,\n        primaryItems: [\n          CommandBarButton(\n            icon: const Icon(FluentIcons.refresh),\n            onPressed: () {},\n          ),\n        ],\n      ),\n    ],\n  ),\n);\n",b3,b3),b1,new G.b8(b3,new B.dV(C.aaP,A.x2(B.bt(B.a([B.bA(E.fD(b3,D.ar,b3,D.G,F.eG,D.bj,b5,o),1),E.fD(b3,D.ar,b3,D.G,F.ic,D.bj,B.a([E.fb(C.oj,b3,new A.b3a())],a5),F.cI)],a6),D.L,b3,D.G,D.N,b3,b3,D.D)),b3),"ConstrainedBox(\n  constraints: const BoxConstraints(maxHeight: 330),\n  child: CommandBarCard(\n    child: Column(\n      children: [\n        Expanded(\n          child: CommandBar(\n            direction: Axis.vertical,\n            overflowBehavior:\n                CommandBarOverflowBehavior.dynamicOverflow,\n            overflowItemAlignment: MainAxisAlignment.end,\n            primaryItems: [\n              ...simpleCommandBarItems,\n              const CommandBarSeparator(direction: Axis.horizontal),\n              ...moreCommandBarItems,\n            ],\n            secondaryItems: evenMoreCommandBarItems,\n          ),\n        ),\n        // End-aligned button(s)\n        CommandBar(\n          direction: Axis.vertical,\n          overflowBehavior: CommandBarOverflowBehavior.noWrap,\n          primaryItems: [\n            CommandBarButton(\n              icon: const Icon(FluentIcons.refresh),\n              onPressed: () {},\n            ),\n          ],\n        ),\n      ],\n    ),\n  ),\n);\n",b3,b3)],a6),b6)}}
+A.art.prototype={}
+A.u3.prototype={
+T(){var x=y.s
+return new A.aiA(new B.aq("Expander key",y.M),B.a(["Classic","Whole wheat","Gluten free"],x),B.a(["Regular","Thin","Pan","Stuffed"],x),D.C)}}
+A.aiA.prototype={
+C(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=o.d,l=m.ga_()
 if(l==null)l=n
 else{l=l.e
 l===$&&B.b()}x=l===!0
-l=o.iz(0,C.c4x)
-w=o.bs(C.c7c)
-v=o.iz(0,C.c7P)
-u=o.e?n:B.am(o.r+", "+o.x,n,n,n,n,n,d.D(y.E).w.a.w,n,n)
+l=o.iE(0,C.c57)
+w=o.bu(C.c7N)
+v=o.iE(0,C.c8p)
+u=o.e?n:B.ao(o.r+", "+o.x,n,n,n,n,n,d.D(y.E).w.a.w,n,n)
 t=o.f
-s=B.X(t).h("a1<1,ag>")
+s=B.X(t).h("a2<1,ag>")
 r=o.w
-q=B.X(r).h("a1<1,ag>")
+q=B.X(r).h("a2<1,ag>")
 p=y.p
-u=G.aBf(B.aQ(B.a([B.bs(B.I(new B.a1(t,new A.b4f(o),s),!0,s.h("aE.E")),D.aA,n,D.G,D.N,n,n,D.D),D.fm,B.bs(B.I(new B.a1(r,new A.b4g(o),q),!0,q.h("aE.E")),D.aA,n,D.G,D.N,n,n,D.D)],p),D.aA,n,D.G,D.N,n,n,D.D),C.c5V,n,n,new A.b4h(o),u)
-q=o.bs(C.c7s)
-r=G.aBf(new B.aJ(n,300,B.pn(B.byi("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porta lectus lacus, ut viverra ex aliquet at. Sed ac tempus magna. Ut velit diam, condimentum ac bibendum sit amet, aliquam at quam. Mauris bibendum, elit ut mollis molestie, neque risus lacinia libero, id fringilla lacus odio a nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam viverra tincidunt diam, id porta justo iaculis ac. Aenean ornare bibendum rutrum. Aenean dignissim egestas augue id elementum. Suspendisse dapibus, felis nec varius porta, purus turpis sodales est, sit amet consectetur velit turpis in orci. Curabitur sed tortor purus. Donec ut ligula tortor. Quisque ac nulla dui. Praesent sed diam id dui pharetra facilisis. Maecenas lacinia augue eu metus luctus, vitae efficitur ex accumsan. Sed viverra tellus quis ex tempus, sit amet aliquam mauris hendrerit. Proin tempus nisl mauris, eget ultricies ligula aliquet id.\n\nFusce molestie quis augue vel eleifend. Praesent ligula velit, porta id diam sed, malesuada molestie odio. Proin egestas nisl vel leo accumsan, vel ullamcorper ipsum dapibus. Curabitur libero augue, porttitor dictum mauris ut, dignissim blandit lacus. Suspendisse lacinia augue elit, sit amet auctor eros pretium sit amet. Proin ullamcorper augue nulla, sit amet rhoncus nisl gravida ac. Aenean auctor ligula in nibh fermentum fermentum. Aliquam erat volutpat. Sed molestie vulputate diam, id rhoncus augue mattis vitae. Ut tempus tempus dui, in imperdiet elit tincidunt id. Integer congue urna eu nisl bibendum accumsan. Aliquam commodo tempor turpis sit amet suscipit.\n\nDonec sit amet semper sem. Pellentesque commodo mi in est sagittis ultricies in ut elit. Donec vulputate commodo vestibulum. Pellentesque pulvinar tortor vel suscipit hendrerit. Vestibulum interdum, est et aliquam dapibus, tellus elit pharetra nisl, in volutpat sapien ipsum in velit. Donec gravida erat tellus, et molestie diam interdum sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis dolor nisl, viverra sed pellentesque molestie, tempor ut enim. Duis suscipit massa sed dolor suscipit mollis. In lobortis efficitur egestas. Integer blandit, dolor eu tristique mollis, lorem urna convallis arcu, non iaculis elit purus vel velit. Nam eget aliquet quam, vitae luctus urna. Nunc vehicula sagittis risus, vitae pretium lacus ornare semper. In ornare massa vitae odio consequat, eu lacinia mi imperdiet. Vivamus at augue diam. Fusce eu purus magna.\n\nFusce tempor, dolor in porttitor porttitor, turpis leo ullamcorper urna, vitae ultrices lorem augue eget nulla. Nulla sodales venenatis tellus quis feugiat. Phasellus sit amet condimentum nulla. Quisque felis lorem, tempus quis odio id, tincidunt volutpat ante. Fusce ultrices dui vel lorem tincidunt, in pellentesque ligula luctus. Morbi luctus est vitae eros blandit dictum. Quisque convallis diam sed arcu volutpat, eget placerat turpis cursus. Aliquam dapibus finibus luctus. Praesent vestibulum viverra risus, nec sollicitudin mi mattis eu. Nulla vestibulum, nibh eget sagittis placerat, elit eros egestas libero, eu luctus justo ante eget tellus. Etiam quis lacus gravida, consequat diam in, laoreet sapien.\n\nFusce nunc neque, imperdiet id justo non, porttitor finibus massa. Ut quis risus quis tellus ultricies accumsan et et lorem. Nam pulvinar luctus velit, ut vehicula neque sagittis nec. Integer commodo, metus auctor rutrum finibus, tellus justo feugiat leo, sit amet tempus est justo eu augue. Cras eget nibh ac enim bibendum lobortis. Sed ultricies nunc elit, imperdiet consectetur velit scelerisque eu. Aliquam suscipit libero vel nibh porttitor, vel sodales nisi viverra. Duis vitae rutrum metus, vitae accumsan massa. Sed congue, est interdum commodo facilisis, leo libero blandit tellus, a dapibus tortor odio eget ex. Nunc aliquet nulla vel augue pulvinar, vel luctus risus sagittis. Sed non sodales urna. Phasellus quis sapien placerat, ultricies risus ut, hendrerit mi. Donec pretium ligula non arcu posuere porttitor. Pellentesque eleifend mollis ex non eleifend. Nam sed elit mollis mauris laoreet aliquam eget vel elit.",$.bnq()),D.a1,n,n,n,n,D.as),n),C.c6i,n,n,n,n)
-s=o.bs(C.c4n)
-m=B.bB(G.aBf(C.c48,C.c7t,n,m,new A.b4i(o),n),1)
-return B.f0(n,B.a([l,w,v,new G.b7(n,u,"Expander(\n  leading: RadioButton(\n    checked: checked,\n    onChanged: (v) => setState(() => checked = v),\n  ),\n  header: Text('This text is in header'),\n  content: Text('This text is in content'),\n)",n,n),q,new G.b7(n,r,"Expander(\n  header: Text('Open to see the scrollable text'),\n  content: SizedBox(\n    height: 300,\n    child: SingleChildScrollView(\n      child: Text('A LONG TEXT HERE'),\n    ),\n  ),\n)",n,n),s,new G.b7(n,B.aQ(B.a([m,C.Cu,X.id(x,B.am(x?"Close":"Open",n,n,n,n,n,n,n,n),new A.b4j(o))],p),D.aA,n,D.G,D.N,n,n,D.D),"final expanderKey = GlobalKey<ExpanderState>(debugLabel: 'Expander key');\n\nExpander(\n  key: expanderKey,\n  header: Text('This text is in header'),\n  content: Text('This text is in content'),\n  onStateChanged: (open) {\n    print('state changed to open="+x+"');\n  },\n)\n\n/// Toggles the current expander state\n/// \n/// if it's open, now it's closed, and vice versa\nvoid toggle() {\n  final open = expanderKey.currentState?.open ?? false;\n\n  expanderKey.currentState?.open = !open;\n}",n,n)],p),C.bT8)}}
-A.aqK.prototype={}
-A.ud.prototype={
-U(){return new A.aiX(I.lM,D.C)}}
-A.aiX.prototype={
-C(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=o.bs(C.c6P),l=y.E,k=d.D(l).w,j=B.f4(!1,C.c6H,n,!0,n,n,new A.b74(d),n,n,n),i=o.bs(C.c3u),h=d.D(l).w,g=o.e.j(0),f=y.p,e=B.a([],f)
-if(o.d)e.push(N.aF2(n,C.c6K,!0,!0,new A.b75(o),o.e,C.a7I))
-e.push(D.dy)
-e.push(C.FO)
-e.push(D.dy)
-e.push(L.jE(o.d,C.a7T,new A.b76(o)))
+u=G.aCd(B.aS(B.a([B.bt(B.J(new B.a2(t,new A.b5X(o),s),!0,s.h("aG.E")),D.aB,n,D.G,D.N,n,n,D.D),D.fq,B.bt(B.J(new B.a2(r,new A.b5Y(o),q),!0,q.h("aG.E")),D.aB,n,D.G,D.N,n,n,D.D)],p),D.aB,n,D.G,D.N,n,n,D.D),C.c6v,n,n,new A.b5Z(o),u)
+q=o.bu(C.c82)
+r=G.aCd(new B.aJ(n,300,B.pt(B.bA9("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis porta lectus lacus, ut viverra ex aliquet at. Sed ac tempus magna. Ut velit diam, condimentum ac bibendum sit amet, aliquam at quam. Mauris bibendum, elit ut mollis molestie, neque risus lacinia libero, id fringilla lacus odio a nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam viverra tincidunt diam, id porta justo iaculis ac. Aenean ornare bibendum rutrum. Aenean dignissim egestas augue id elementum. Suspendisse dapibus, felis nec varius porta, purus turpis sodales est, sit amet consectetur velit turpis in orci. Curabitur sed tortor purus. Donec ut ligula tortor. Quisque ac nulla dui. Praesent sed diam id dui pharetra facilisis. Maecenas lacinia augue eu metus luctus, vitae efficitur ex accumsan. Sed viverra tellus quis ex tempus, sit amet aliquam mauris hendrerit. Proin tempus nisl mauris, eget ultricies ligula aliquet id.\n\nFusce molestie quis augue vel eleifend. Praesent ligula velit, porta id diam sed, malesuada molestie odio. Proin egestas nisl vel leo accumsan, vel ullamcorper ipsum dapibus. Curabitur libero augue, porttitor dictum mauris ut, dignissim blandit lacus. Suspendisse lacinia augue elit, sit amet auctor eros pretium sit amet. Proin ullamcorper augue nulla, sit amet rhoncus nisl gravida ac. Aenean auctor ligula in nibh fermentum fermentum. Aliquam erat volutpat. Sed molestie vulputate diam, id rhoncus augue mattis vitae. Ut tempus tempus dui, in imperdiet elit tincidunt id. Integer congue urna eu nisl bibendum accumsan. Aliquam commodo tempor turpis sit amet suscipit.\n\nDonec sit amet semper sem. Pellentesque commodo mi in est sagittis ultricies in ut elit. Donec vulputate commodo vestibulum. Pellentesque pulvinar tortor vel suscipit hendrerit. Vestibulum interdum, est et aliquam dapibus, tellus elit pharetra nisl, in volutpat sapien ipsum in velit. Donec gravida erat tellus, et molestie diam interdum sed. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis dolor nisl, viverra sed pellentesque molestie, tempor ut enim. Duis suscipit massa sed dolor suscipit mollis. In lobortis efficitur egestas. Integer blandit, dolor eu tristique mollis, lorem urna convallis arcu, non iaculis elit purus vel velit. Nam eget aliquet quam, vitae luctus urna. Nunc vehicula sagittis risus, vitae pretium lacus ornare semper. In ornare massa vitae odio consequat, eu lacinia mi imperdiet. Vivamus at augue diam. Fusce eu purus magna.\n\nFusce tempor, dolor in porttitor porttitor, turpis leo ullamcorper urna, vitae ultrices lorem augue eget nulla. Nulla sodales venenatis tellus quis feugiat. Phasellus sit amet condimentum nulla. Quisque felis lorem, tempus quis odio id, tincidunt volutpat ante. Fusce ultrices dui vel lorem tincidunt, in pellentesque ligula luctus. Morbi luctus est vitae eros blandit dictum. Quisque convallis diam sed arcu volutpat, eget placerat turpis cursus. Aliquam dapibus finibus luctus. Praesent vestibulum viverra risus, nec sollicitudin mi mattis eu. Nulla vestibulum, nibh eget sagittis placerat, elit eros egestas libero, eu luctus justo ante eget tellus. Etiam quis lacus gravida, consequat diam in, laoreet sapien.\n\nFusce nunc neque, imperdiet id justo non, porttitor finibus massa. Ut quis risus quis tellus ultricies accumsan et et lorem. Nam pulvinar luctus velit, ut vehicula neque sagittis nec. Integer commodo, metus auctor rutrum finibus, tellus justo feugiat leo, sit amet tempus est justo eu augue. Cras eget nibh ac enim bibendum lobortis. Sed ultricies nunc elit, imperdiet consectetur velit scelerisque eu. Aliquam suscipit libero vel nibh porttitor, vel sodales nisi viverra. Duis vitae rutrum metus, vitae accumsan massa. Sed congue, est interdum commodo facilisis, leo libero blandit tellus, a dapibus tortor odio eget ex. Nunc aliquet nulla vel augue pulvinar, vel luctus risus sagittis. Sed non sodales urna. Phasellus quis sapien placerat, ultricies risus ut, hendrerit mi. Donec pretium ligula non arcu posuere porttitor. Pellentesque eleifend mollis ex non eleifend. Nam sed elit mollis mauris laoreet aliquam eget vel elit.",$.bpe()),D.a1,n,n,n,n,D.ar),n),C.c6T,n,n,n,n)
+s=o.bu(C.c4Y)
+m=B.bA(G.aCd(C.c4J,C.c83,n,m,new A.b6_(o),n),1)
+return B.f4(n,B.a([l,w,v,new G.b8(n,u,"Expander(\n  leading: RadioButton(\n    checked: checked,\n    onChanged: (v) => setState(() => checked = v),\n  ),\n  header: Text('This text is in header'),\n  content: Text('This text is in content'),\n)",n,n),q,new G.b8(n,r,"Expander(\n  header: Text('Open to see the scrollable text'),\n  content: SizedBox(\n    height: 300,\n    child: SingleChildScrollView(\n      child: Text('A LONG TEXT HERE'),\n    ),\n  ),\n)",n,n),s,new G.b8(n,B.aS(B.a([m,C.CJ,X.ig(x,B.ao(x?"Close":"Open",n,n,n,n,n,n,n,n),new A.b60(o))],p),D.aB,n,D.G,D.N,n,n,D.D),"final expanderKey = GlobalKey<ExpanderState>(debugLabel: 'Expander key');\n\nExpander(\n  key: expanderKey,\n  header: Text('This text is in header'),\n  content: Text('This text is in content'),\n  onStateChanged: (open) {\n    print('state changed to open="+x+"');\n  },\n)\n\n/// Toggles the current expander state\n/// \n/// if it's open, now it's closed, and vice versa\nvoid toggle() {\n  final open = expanderKey.currentState?.open ?? false;\n\n  expanderKey.currentState?.open = !open;\n}",n,n)],p),C.bTD)}}
+A.arH.prototype={}
+A.uo.prototype={
+T(){return new A.ajM(I.lQ,D.C)}}
+A.ajM.prototype={
+C(d){var x,w,v,u,t,s,r,q,p,o=this,n=null,m=o.bu(C.c7p),l=y.E,k=d.D(l).w,j=B.f9(!1,C.c7h,n,!0,n,n,new A.b8M(d),n,n,n),i=o.bu(C.c44),h=d.D(l).w,g=o.e.j(0),f=y.p,e=B.a([],f)
+if(o.d)e.push(N.aG3(n,C.c7k,!0,!0,new A.b8N(o),o.e,C.a81))
+e.push(D.dA)
+e.push(C.G8)
+e.push(D.dA)
+e.push(L.jJ(o.d,C.a8c,new A.b8O(o)))
 x=y.Z
-x=B.I(new B.a1(C.bKT,new A.b78(),x),!0,x.h("aE.E"))
+x=B.J(new B.a2(C.bLi,new A.b8Q(),x),!0,x.h("aG.E"))
 w=o.e
-e.push(B.ax(n,B.ip(!1,n,8,n,n,D.cm,n,n,8,!0,x,n,new A.b79(o),n,n,new A.b7a(o).$0(),n,n,w,y.L),D.I,n,n,n,n,n,n,D.G_,n,n,n,150))
-e=B.bs(e,D.aA,n,D.G,D.aw,n,n,D.D)
-w=o.bs(C.c86)
+e.push(B.aw(n,B.it(!1,n,8,n,n,D.cn,n,n,8,!0,x,n,new A.b8R(o),n,n,new A.b8S(o).$0(),n,n,w,y.L),D.H,n,n,n,n,n,n,D.Gk,n,n,n,150))
+e=B.bt(e,D.aB,n,D.G,D.aw,n,n,D.D)
+w=o.bu(C.c8H)
 l=d.D(l).w
 x=o.r?'"Essential app message for your users to be informed of, acknowledge, or take action on. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."':'"A short essential message"'
 v=o.e.j(0)
 u=o.w?"action: Button(\n    child: const Text('Action'),\n    onPressed: () {},\n  )":n
 t=B.a([],f)
 if(o.f){s=o.r
-r=B.am(s?"Essential app message for your users to be informed of, acknowledge, or take action on. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.":"A short essential message",n,n,n,n,n,n,n,n)
+r=B.ao(s?"Essential app message for your users to be informed of, acknowledge, or take action on. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.":"A short essential message",n,n,n,n,n,n,n,n)
 q=o.e
-p=o.w?B.f4(!1,C.c7R,n,!0,n,n,new A.b7b(),n,n,n):n
-t.push(N.aF2(p,r,o.x,s,new A.b7c(o),q,C.a7I))}t.push(D.dy)
-t.push(C.FO)
-t.push(D.dy)
-t.push(L.jE(o.f,C.a7T,new A.b7d(o)))
-t.push(L.jE(o.r,C.c4X,new A.b7e(o)))
-t.push(L.jE(o.w,C.c5k,new A.b7f(o)))
-t.push(L.jE(o.x,C.c5z,new A.b77(o)))
-return B.f0(n,B.a([C.c3E,m,new G.b7(n,new B.ag(D.cQ,j,n),"displayInfoBar(context, builder: (context, close) {\n  return InfoBar(\n    title: const Text('You can not do that :/'),\n    content: const Text(\n        'A proper warning message of why the user can not do that :/'),\n    action: IconButton(\n      icon: const Icon(FluentIcons.clear),\n      onPressed: close,\n    ),\n    severity: InfoBarSeverity.warning,\n  );\n}",k.y,n),i,new G.b7(n,new B.ag(D.cQ,e,n),"InfoBar(\n  title: const Text('Title'),\n  content: const Text(\n    'Essential app message for your users to be informed of, '\n    'acknowledge, or take action on.',\n  ),\n  severity: "+g+",\n  isLong: true,\n)",h.y,n),w,new G.b7(n,new B.ag(D.cQ,B.bs(t,D.aA,n,D.G,D.aw,n,n,D.D),n),"InfoBar(\n  title: const Text('Title'),\n  content: Text(\n    "+x+"\n  ),\n  severity: "+v+",\n  isLong: true,\n  "+B.h(u)+"\n)",l.y,n)],f),C.bTe)}}
-A.aqS.prototype={}
-A.uS.prototype={
-U(){return new A.alr(D.fX.aWj()*100,D.C)}}
-A.alr.prototype={
-C(d){var x=this,w=null,v=x.iz(0,C.c4e),u=x.bs(C.c7Z),t=x.iz(0,C.c4k),s=x.bs(C.c4V),r=x.iz(0,C.c7y),q=x.d,p=""+D.n.t(q),o=K.zP(w,100,0,new A.bb7(x),q,!1),n=y.p
-return B.f0(w,B.a([v,u,t,C.acW,s,r,new G.b7(w,B.aQ(B.a([new A.Eu(q,w),C.Cu,new V.zj(q,4.5,w),D.de,new B.fE(B.bH(w,w,"Progress: "+p),o,!0,w)],n),D.L,w,D.G,D.N,w,w,D.D),"// determinate progress bar\nProgressBar(value: "+p+"),\n\n// determinate progress ring\nProgressRing(value: "+p+"),",w,w)],n),C.bTn)}}
-A.ar5.prototype={}
-A.vt.prototype={
-U(){var x,w,v,u=null,t=J.pZ(H.hN.gaP(H.hN))
-D.f.akQ(t)
+p=o.w?B.f9(!1,C.c8r,n,!0,n,n,new A.b8T(),n,n,n):n
+t.push(N.aG3(p,r,o.x,s,new A.b8U(o),q,C.a81))}t.push(D.dA)
+t.push(C.G8)
+t.push(D.dA)
+t.push(L.jJ(o.f,C.a8c,new A.b8V(o)))
+t.push(L.jJ(o.r,C.c5x,new A.b8W(o)))
+t.push(L.jJ(o.w,C.c5V,new A.b8X(o)))
+t.push(L.jJ(o.x,C.c69,new A.b8P(o)))
+return B.f4(n,B.a([C.c4e,m,new G.b8(n,new B.ag(D.cT,j,n),"displayInfoBar(context, builder: (context, close) {\n  return InfoBar(\n    title: const Text('You can not do that :/'),\n    content: const Text(\n        'A proper warning message of why the user can not do that :/'),\n    action: IconButton(\n      icon: const Icon(FluentIcons.clear),\n      onPressed: close,\n    ),\n    severity: InfoBarSeverity.warning,\n  );\n}",k.y,n),i,new G.b8(n,new B.ag(D.cT,e,n),"InfoBar(\n  title: const Text('Title'),\n  content: const Text(\n    'Essential app message for your users to be informed of, '\n    'acknowledge, or take action on.',\n  ),\n  severity: "+g+",\n  isLong: true,\n)",h.y,n),w,new G.b8(n,new B.ag(D.cT,B.bt(t,D.aB,n,D.G,D.aw,n,n,D.D),n),"InfoBar(\n  title: const Text('Title'),\n  content: Text(\n    "+x+"\n  ),\n  severity: "+v+",\n  isLong: true,\n  "+B.h(u)+"\n)",l.y,n)],f),C.bTJ)}}
+A.arP.prototype={}
+A.v3.prototype={
+T(){return new A.aml(D.h_.aY0()*100,D.C)}}
+A.aml.prototype={
+C(d){var x=this,w=null,v=x.iE(0,C.c4P),u=x.bu(C.c8z),t=x.iE(0,C.c4V),s=x.bu(C.c5v),r=x.iE(0,C.c88),q=x.d,p=""+D.n.u(q),o=K.A3(w,100,0,new A.bcQ(x),q,!1),n=y.p
+return B.f4(w,B.a([v,u,t,C.adc,s,r,new G.b8(w,B.aS(B.a([new A.EI(q,w),C.CJ,new V.zz(q,4.5,w),D.df,new B.fF(B.bJ(w,w,"Progress: "+p),o,!0,w)],n),D.L,w,D.G,D.N,w,w,D.D),"// determinate progress bar\nProgressBar(value: "+p+"),\n\n// determinate progress ring\nProgressRing(value: "+p+"),",w,w)],n),C.bTS)}}
+A.as2.prototype={}
+A.vF.prototype={
+T(){var x,w,v,u=null,t=J.q2(H.hQ.gaI(H.hQ))
+D.f.alK(t)
 x=y.F
 w=B.a([],x)
-v=$.ae()
-return new A.aoL(t,new B.eN(0,!0,u,u,u,w,v),new B.eN(0,!0,u,u,u,B.a([],x),v),B.a([],y.s),new B.eN(0,!0,u,u,u,B.a([],x),v),D.C)}}
-A.aoL.prototype={
-C(d){var x,w,v,u,t=this,s=null,r=d.D(y.E).w,q=t.iz(0,C.c4b),p=t.bs(C.c51),o=r.p3.xr,n=B.fz(o,1)
-n=B.ax(s,B.DA(!0,s,t.e,new A.bfS(t),$.Ig().length,s,s,s,s,s,!0),D.I,s,s,new B.aT(s,s,n,s,s,s,s,D.a7),s,400,s,s,s,s,s,350)
-x=t.bs(C.c4R)
-w=B.fz(o,1)
+v=$.ab()
+return new A.apG(t,new B.eA(0,!0,u,u,u,w,v),new B.eA(0,!0,u,u,u,B.a([],x),v),B.a([],y.s),new B.eA(0,!0,u,u,u,B.a([],x),v),D.C)}}
+A.apG.prototype={
+C(d){var x,w,v,u,t=this,s=null,r=d.D(y.E).w,q=t.iE(0,C.c4M),p=t.bu(C.c5C),o=r.p3.xr,n=B.fA(o,1)
+n=B.aw(s,B.yy(!0,s,t.e,new A.bhB(t),$.Iv().length,s,s,s,s,s,s,!0),D.H,s,s,new B.aU(s,s,n,s,s,s,s,D.a8),s,400,s,s,s,s,s,350)
+x=t.bu(C.c5r)
+w=B.fA(o,1)
 v=y.p
-w=B.aQ(B.a([B.ax(s,B.DA(!0,s,t.r,new A.bfT(t),$.Ig().length,s,s,s,s,s,!0),D.I,s,s,new B.aT(s,s,w,s,s,s,s,D.a7),s,400,s,s,s,s,s,350)],v),D.aA,s,D.G,D.N,s,s,D.D)
-u=t.bs(C.c4C)
-o=B.fz(o,1)
-return B.f0(s,B.a([q,p,new G.b7(s,n,"String selectedContact = '';\n\nconst contacts = ['Kendall', 'Collins', ...];\n\nListView.builder(\n  itemCount: contacts.length,\n  itemBuilder: (context, index) {\n    final contact = contacts[index];\n    return ListTile.selectable(\n      title: Text(contact),\n      selected: selectedContact == contact,\n      onSelectionChange: (v) => setState(() => selectedContact = contact),\n    );\n  } \n),",s,s),x,new G.b7(s,w,"List<String> selectedContacts = [];\n\nconst contacts = ['Kendall', 'Collins', ...];\n\nListView.builder(\n  itemCount: contacts.length,\n  itemBuilder: (context, index) {\n    final contact = contacts[index];\n    return ListTile.selectable(\n      title: Text(contact),\n      selected: selectedContacts.contains(contact),\n      selectionMode: ListTileSelectionMode.multiple,\n      onSelectionChange: (selected) {\n        setState(() {\n          if (selected) {\n            selectedContacts.add(contact);\n          } else {\n            selectedContacts.remove(contact);\n          }\n        });\n      },\n    );\n  } \n),",s,s),u,new G.b7(s,B.aQ(B.a([B.ax(s,B.DA(!0,s,t.y,new A.bfU(t),$.Ig().length,s,s,s,s,s,!0),D.I,s,s,new B.aT(s,s,o,s,s,s,s,D.a7),s,400,s,s,s,s,s,550)],v),D.aA,s,D.G,D.N,s,s,D.D),"String selectedContact = '';\n\nconst contacts = ['Kendall', 'Collins', ...];\n\nListView.builder(\n  itemCount: contacts.length,\n  itemBuilder: (context, index) {\n    final contact = contacts[index];\n    return ListTile.selectable(\n      leading: SizedBox(\n        height: 100,\n        child: AspectRatio(\n          aspectRatio: 16 / 9,\n          child: ColoredBox(\n            color: Colors.accentColors[index ~/ 20],\n            child: const Placeholder(),\n          ),\n        ),\n      ),\n      title: Text(contact),\n      subtitle: const Text('With a custom subtitle'),\n      selectionMode: ListTileSelectionMode.single,\n      selected: selectedContact == contact,\n      onSelectionChange: (v) => setState(() => selectedContact = contact),\n    );\n  } \n),",s,s)],v),C.bTk)}}
-A.arC.prototype={}
-var z=a.updateTypes(["O(O)","me(D,l)","rz(D,wS,d)","oQ(D,~())"])
-A.bb5.prototype={
+w=B.aS(B.a([B.aw(s,B.yy(!0,s,t.r,new A.bhC(t),$.Iv().length,s,s,s,s,s,s,!0),D.H,s,s,new B.aU(s,s,w,s,s,s,s,D.a8),s,400,s,s,s,s,s,350)],v),D.aB,s,D.G,D.N,s,s,D.D)
+u=t.bu(C.c5c)
+o=B.fA(o,1)
+return B.f4(s,B.a([q,p,new G.b8(s,n,"String selectedContact = '';\n\nconst contacts = ['Kendall', 'Collins', ...];\n\nListView.builder(\n  itemCount: contacts.length,\n  itemBuilder: (context, index) {\n    final contact = contacts[index];\n    return ListTile.selectable(\n      title: Text(contact),\n      selected: selectedContact == contact,\n      onSelectionChange: (v) => setState(() => selectedContact = contact),\n    );\n  } \n),",s,s),x,new G.b8(s,w,"List<String> selectedContacts = [];\n\nconst contacts = ['Kendall', 'Collins', ...];\n\nListView.builder(\n  itemCount: contacts.length,\n  itemBuilder: (context, index) {\n    final contact = contacts[index];\n    return ListTile.selectable(\n      title: Text(contact),\n      selected: selectedContacts.contains(contact),\n      selectionMode: ListTileSelectionMode.multiple,\n      onSelectionChange: (selected) {\n        setState(() {\n          if (selected) {\n            selectedContacts.add(contact);\n          } else {\n            selectedContacts.remove(contact);\n          }\n        });\n      },\n    );\n  } \n),",s,s),u,new G.b8(s,B.aS(B.a([B.aw(s,B.yy(!0,s,t.y,new A.bhD(t),$.Iv().length,s,s,s,s,s,s,!0),D.H,s,s,new B.aU(s,s,o,s,s,s,s,D.a8),s,400,s,s,s,s,s,550)],v),D.aB,s,D.G,D.N,s,s,D.D),"String selectedContact = '';\n\nconst contacts = ['Kendall', 'Collins', ...];\n\nListView.builder(\n  itemCount: contacts.length,\n  itemBuilder: (context, index) {\n    final contact = contacts[index];\n    return ListTile.selectable(\n      leading: SizedBox(\n        height: 100,\n        child: AspectRatio(\n          aspectRatio: 16 / 9,\n          child: ColoredBox(\n            color: Colors.accentColors[index ~/ 20],\n            child: const Placeholder(),\n          ),\n        ),\n      ),\n      title: Text(contact),\n      subtitle: const Text('With a custom subtitle'),\n      selectionMode: ListTileSelectionMode.single,\n      selected: selectedContact == contact,\n      onSelectionChange: (v) => setState(() => selectedContact = contact),\n    );\n  } \n),",s,s)],v),C.bTP)}}
+A.asA.prototype={}
+var z=a.updateTypes(["mg(E,l)","rH(E,x3,d)","oY(E,~())"])
+A.bcO.prototype={
 $2(d,e){var x,w,v,u=null,t=this.a,s=t.d
 s===$&&B.b()
 s=s.x
@@ -675,484 +594,477 @@ if(x<0)++x
 s=t.a.c
 s=s==null?u:s/100
 w=this.b
-v=w.c.h0(w.cx)
+v=w.c.h5(w.cx)
 t.a.toString
-return B.hX(u,u,u,new A.alo(t.e,t.f,t.r,t.w,t.x,x,new A.bb4(t),4.5,w.f,v,s,u),D.a6)},
-$S:193}
-A.bb4.prototype={
+return B.hI(u,u,u,new A.ami(t.e,t.f,t.r,t.w,t.x,x,new A.bcN(t),4.5,w.f,v,s,u),D.a6)},
+$S:304}
+A.bcN.prototype={
 $1(d){var x=this.a
 x.e=d[0]
 x.f=d[1]
 x.r=d[2]
 x.w=d[3]
 x.x=d[4]},
-$S:858}
-A.bb2.prototype={
+$S:877}
+A.bcL.prototype={
 $3(d,e,f){var x,w,v=this.b.x
-d=d.Y(0,new B.j(v/2,0))
+d=d.Z(0,new B.i(v/2,0))
 x=this.a.a
 w=x.a
 x=x.b
-d=A.bxb(d,D.B,new B.j(w,x))
-e=A.bxb(e,d,new B.j(w,x))
-x=$.as().bR()
-x.sad(0,f)
-x.sj1(v)
-x.sd8(0,D.bo)
-x.sAL(D.wF)
-x.sGV(D.Cy)
-this.c.lp(d,e,x)},
-$S:859}
-A.bb3.prototype={
+d=A.bz0(d,D.A,new B.i(w,x))
+e=A.bz0(e,d,new B.i(w,x))
+x=$.aj().bR()
+x.sae(0,f)
+x.siA(v)
+x.sd2(0,D.bf)
+x.suU(D.wN)
+x.sHr(D.CN)
+this.c.lx(d,e,x)},
+$S:878}
+A.bcM.prototype={
 $0(){var x=this.a
 x.w.$1(B.a([x.b,x.c,x.d,x.e,x.f],y.n))},
 $S:0}
-A.bb1.prototype={
+A.bcK.prototype={
 $1(d){var x=this.a.a
-return new B.j(x.a*d,x.b)},
-$S:860}
-A.bb0.prototype={
+return new B.i(x.a*d,x.b)},
+$S:879}
+A.bcJ.prototype={
 $1(d){return(1+Math.cos(3.141592653589793*d-1.5707963267948966)*0.8)*this.a.r},
 $S:2}
-A.aXZ.prototype={
+A.aZD.prototype={
 $1(d){var x=this.a
-return x.I(new A.aXX(x,d))},
-$S:181}
-A.aXX.prototype={
+return x.H(new A.aZB(x,d))},
+$S:305}
+A.aZB.prototype={
 $0(){return this.a.w=this.b},
 $S:0}
-A.aXY.prototype={
-$1(d){var x=null,w=$.lT()[d]
-return B.fB(B.aQ(B.a([this.a.td(w),O.e8,B.am(D.Ak[d+1],x,x,x,x,x,x,x,x)],y.p),D.L,x,D.G,D.N,x,x,D.D),w,y.G)},
-$S:241}
-A.aY_.prototype={
+A.aZC.prototype={
+$1(d){var x=null,w=$.lW()[d]
+return B.fC(B.aS(B.a([this.a.tq(w),O.eb,B.ao(D.Az[d+1],x,x,x,x,x,x,x,x)],y.p),D.L,x,D.G,D.N,x,x,D.D),w,y.G)},
+$S:306}
+A.aZE.prototype={
 $1(d){var x=this.a
-return x.I(new A.aXW(x,d))},
-$S:39}
-A.aXW.prototype={
+return x.H(new A.aZA(x,d))},
+$S:36}
+A.aZA.prototype={
 $0(){return this.a.d=this.b},
 $S:0}
-A.aY0.prototype={
+A.aZF.prototype={
 $1(d){var x=this.a
-return x.I(new A.aXV(x,d))},
-$S:39}
-A.aXV.prototype={
+return x.H(new A.aZz(x,d))},
+$S:36}
+A.aZz.prototype={
 $0(){return this.a.e=this.b},
 $S:0}
-A.aY1.prototype={
+A.aZG.prototype={
 $1(d){var x=this.a
-return x.I(new A.aXU(x,d))},
-$S:39}
-A.aXU.prototype={
+return x.H(new A.aZy(x,d))},
+$S:36}
+A.aZy.prototype={
 $0(){return this.a.f=this.b},
 $S:0}
-A.aY2.prototype={
+A.aZH.prototype={
 $1(d){var x=this.a
-return x.I(new A.aXT(x,d))},
-$S:39}
-A.aXT.prototype={
+return x.H(new A.aZx(x,d))},
+$S:36}
+A.aZx.prototype={
 $0(){return this.a.r=this.b},
 $S:0}
-A.b1F.prototype={
-$3(d,e,f){return B.iO(f,!1,"Create something new!",null,null,!0)},
+A.b3n.prototype={
+$3(d,e,f){return B.iT(f,!1,"Create something new!",null,null,!0)},
 $C:"$3",
 $R:3,
-$S:z+2}
-A.b1G.prototype={
+$S:z+1}
+A.b3o.prototype={
 $0(){},
 $S:0}
-A.b1H.prototype={
-$3(d,e,f){return B.iO(f,!1,"Delete what is currently selected!",null,null,!0)},
+A.b3p.prototype={
+$3(d,e,f){return B.iT(f,!1,"Delete what is currently selected!",null,null,!0)},
 $C:"$3",
 $R:3,
-$S:z+2}
-A.b1I.prototype={
+$S:z+1}
+A.b3q.prototype={
 $0(){},
 $S:0}
-A.b1J.prototype={
+A.b3r.prototype={
 $0(){},
 $S:0}
-A.b1K.prototype={
+A.b3s.prototype={
 $0(){},
 $S:0}
-A.b1z.prototype={
+A.b3h.prototype={
 $0(){},
 $S:0}
-A.b1A.prototype={
+A.b3i.prototype={
 $0(){},
 $S:0}
-A.b1B.prototype={
+A.b3j.prototype={
 $0(){},
 $S:0}
-A.b1C.prototype={
+A.b3k.prototype={
 $0(){},
 $S:0}
-A.b1D.prototype={
+A.b3l.prototype={
 $0(){},
 $S:0}
-A.b1E.prototype={
+A.b3m.prototype={
 $0(){},
 $S:0}
-A.b1t.prototype={
+A.b3b.prototype={
 $0(){},
 $S:0}
-A.b1u.prototype={
+A.b3c.prototype={
 $0(){},
 $S:0}
-A.b1v.prototype={
+A.b3d.prototype={
 $0(){},
 $S:0}
-A.b1w.prototype={
+A.b3e.prototype={
 $0(){},
 $S:0}
-A.b1x.prototype={
+A.b3f.prototype={
 $0(){},
 $S:0}
-A.b1y.prototype={
+A.b3g.prototype={
 $0(){},
 $S:0}
-A.b1p.prototype={
+A.b37.prototype={
 $0(){},
 $S:0}
-A.b1q.prototype={
+A.b38.prototype={
 $0(){},
 $S:0}
-A.b1r.prototype={
+A.b39.prototype={
 $0(){},
 $S:0}
-A.b1s.prototype={
+A.b3a.prototype={
 $0(){},
 $S:0}
-A.b4h.prototype={
+A.b5Z.prototype={
 $1(d){var x=this.a
-return x.I(new A.b4c(x,d))},
+return x.H(new A.b5U(x,d))},
 $S:3}
-A.b4c.prototype={
+A.b5U.prototype={
 $0(){return this.a.e=this.b},
 $S:0}
-A.b4f.prototype={
+A.b5X.prototype={
 $1(d){var x=null,w=this.a
-return new B.ag(D.h4,B.Ez(w.r===d,B.am(d,x,x,x,x,x,x,x,x),new A.b4e(w,d)),x)},
-$S:273}
-A.b4e.prototype={
+return new B.ag(D.h7,B.EO(w.r===d,B.ao(d,x,x,x,x,x,x,x,x),new A.b5W(w,d)),x)},
+$S:307}
+A.b5W.prototype={
 $1(d){var x
 if(d){x=this.a
-x.I(new A.b49(x,this.b))}},
+x.H(new A.b5R(x,this.b))}},
 $S:3}
-A.b49.prototype={
+A.b5R.prototype={
 $0(){return this.a.r=this.b},
 $S:0}
-A.b4g.prototype={
+A.b5Y.prototype={
 $1(d){var x=null,w=this.a
-return new B.ag(D.h4,B.Ez(w.x===d,B.am(d,x,x,x,x,x,x,x,x),new A.b4d(w,d)),x)},
-$S:273}
-A.b4d.prototype={
+return new B.ag(D.h7,B.EO(w.x===d,B.ao(d,x,x,x,x,x,x,x,x),new A.b5V(w,d)),x)},
+$S:307}
+A.b5V.prototype={
 $1(d){var x
 if(d){x=this.a
-x.I(new A.b48(x,this.b))}},
+x.H(new A.b5Q(x,this.b))}},
 $S:3}
-A.b48.prototype={
+A.b5Q.prototype={
 $0(){return this.a.x=this.b},
 $S:0}
-A.b4i.prototype={
-$1(d){return this.a.I(new A.b4b())},
+A.b6_.prototype={
+$1(d){return this.a.H(new A.b5T())},
 $S:3}
-A.b4b.prototype={
+A.b5T.prototype={
 $0(){},
 $S:0}
-A.b4j.prototype={
+A.b60.prototype={
 $1(d){var x=this.a
-x.I(new A.b4a(x,d))},
+x.H(new A.b5S(x,d))},
 $S:3}
-A.b4a.prototype={
-$0(){var x,w=this.a.d.gZ()
+A.b5S.prototype={
+$0(){var x,w=this.a.d.ga_()
 if(w!=null){x=w.e
 x===$&&B.b()
-if(x!==this.b)w.Rm()}},
+if(x!==this.b)w.RY()}},
 $S:0}
-A.b74.prototype={
-$0(){N.bkI(this.a,new A.b73())},
+A.b8M.prototype={
+$0(){N.bmu(this.a,new A.b8L())},
 $S:0}
-A.b73.prototype={
+A.b8L.prototype={
 $2(d,e){var x=null
-return N.aF2(G.iA(!1,x,!0,M.IU,x,x,x,e,x,x,x),C.c7q,!0,!1,x,I.J4,C.c4L)},
-$S:z+3}
-A.b75.prototype={
+return N.aG3(G.iE(!1,x,!0,M.Je,x,x,x,e,x,x,x),C.c80,!0,!1,x,I.Jn,C.c5l)},
+$S:z+2}
+A.b8N.prototype={
 $0(){var x=this.a
-return x.I(new A.b72(x))},
+return x.H(new A.b8K(x))},
 $S:0}
-A.b72.prototype={
+A.b8K.prototype={
 $0(){return this.a.d=!1},
 $S:0}
-A.b76.prototype={
+A.b8O.prototype={
 $1(d){var x=this.a
-return x.I(new A.b71(x,d))},
+return x.H(new A.b8J(x,d))},
 $S:18}
-A.b71.prototype={
+A.b8J.prototype={
 $0(){var x=this.b
 x.toString
 return this.a.d=x},
 $S:0}
-A.b78.prototype={
+A.b8Q.prototype={
 $1(d){var x=null
-return B.fB(B.am(d.b,x,x,x,x,x,x,x,x),d,y.L)},
-$S:864}
-A.b79.prototype={
+return B.fC(B.ao(d.b,x,x,x,x,x,x,x,x),d,y.L)},
+$S:883}
+A.b8R.prototype={
 $1(d){var x=this.a
-return x.I(new A.b70(x,d))},
-$S:865}
-A.b70.prototype={
+return x.H(new A.b8I(x,d))},
+$S:884}
+A.b8I.prototype={
 $0(){return this.a.e=this.b},
 $S:0}
-A.b7a.prototype={
+A.b8S.prototype={
 $0(){switch(this.a.e.a){case 0:break
-case 1:return I.F7
-case 2:return I.F2
-case 3:return D.xW}},
-$S:108}
-A.b7c.prototype={
+case 1:return I.Fr
+case 2:return I.Fn
+case 3:return D.y7}},
+$S:113}
+A.b8U.prototype={
 $0(){var x=this.a
-return x.I(new A.b7_(x))},
+return x.H(new A.b8H(x))},
 $S:0}
-A.b7_.prototype={
+A.b8H.prototype={
 $0(){return this.a.f=!1},
 $S:0}
-A.b7b.prototype={
+A.b8T.prototype={
 $0(){},
 $S:0}
-A.b7d.prototype={
+A.b8V.prototype={
 $1(d){var x=this.a
-return x.I(new A.b6Z(x,d))},
+return x.H(new A.b8G(x,d))},
 $S:18}
-A.b6Z.prototype={
+A.b8G.prototype={
 $0(){var x=this.b
 x.toString
 return this.a.f=x},
 $S:0}
-A.b7e.prototype={
+A.b8W.prototype={
 $1(d){var x=this.a
-return x.I(new A.b6Y(x,d))},
+return x.H(new A.b8F(x,d))},
 $S:18}
-A.b6Y.prototype={
+A.b8F.prototype={
 $0(){var x=this.b
 x.toString
 return this.a.r=x},
 $S:0}
-A.b7f.prototype={
+A.b8X.prototype={
 $1(d){var x=this.a
-return x.I(new A.b6X(x,d))},
+return x.H(new A.b8E(x,d))},
 $S:18}
-A.b6X.prototype={
+A.b8E.prototype={
 $0(){var x=this.b
 x.toString
 return this.a.w=x},
 $S:0}
-A.b77.prototype={
+A.b8P.prototype={
 $1(d){var x=this.a
-return x.I(new A.b6W(x,d))},
+return x.H(new A.b8D(x,d))},
 $S:18}
-A.b6W.prototype={
+A.b8D.prototype={
 $0(){var x=this.b
 x.toString
 return this.a.x=x},
 $S:0}
-A.bb7.prototype={
+A.bcQ.prototype={
 $1(d){var x=this.a
-return x.I(new A.bb6(x,d))},
-$S:39}
-A.bb6.prototype={
+return x.H(new A.bcP(x,d))},
+$S:36}
+A.bcP.prototype={
 $0(){return this.a.d=this.b},
 $S:0}
-A.bfS.prototype={
-$2(d,e){var x=null,w=$.Ig()[e],v=B.am(w,x,x,x,x,x,x,x,x),u=this.a
-return Q.aGl(x,x,new A.bfR(u,w),u.f===w,M.op,x,x,v,x)},
-$S:z+1}
-A.bfR.prototype={
+A.bhB.prototype={
+$2(d,e){var x=null,w=$.Iv()[e],v=B.ao(w,x,x,x,x,x,x,x,x),u=this.a
+return Q.aHn(x,x,new A.bhA(u,w),u.f===w,M.ow,x,x,v,x)},
+$S:z+0}
+A.bhA.prototype={
 $1(d){var x=this.a
-x.I(new A.bfO(x,this.b))},
+x.H(new A.bhx(x,this.b))},
 $S:3}
-A.bfO.prototype={
+A.bhx.prototype={
 $0(){return this.a.f=this.b},
 $S:0}
-A.bfT.prototype={
-$2(d,e){var x=null,w=$.Ig()[e],v=B.am(w,x,x,x,x,x,x,x,x),u=this.a,t=B.cT(u.d[e],x,x,x,x)
-return Q.aGl(C.aeV,x,new A.bfQ(u,w),D.f.p(u.w,w),M.Ji,x,C.a7L,v,t)},
-$S:z+1}
-A.bfQ.prototype={
+A.bhC.prototype={
+$2(d,e){var x=null,w=$.Iv()[e],v=B.ao(w,x,x,x,x,x,x,x,x),u=this.a,t=B.cT(u.d[e],x,x,x,x)
+return Q.aHn(C.afc,x,new A.bhz(u,w),D.f.p(u.w,w),M.JB,x,C.a84,v,t)},
+$S:z+0}
+A.bhz.prototype={
 $1(d){var x=this.a
-x.I(new A.bfN(x,d,this.b))},
+x.H(new A.bhw(x,d,this.b))},
 $S:3}
-A.bfN.prototype={
+A.bhw.prototype={
 $0(){var x=this.c,w=this.a.w
 if(this.b)w.push(x)
 else D.f.K(w,x)},
 $S:0}
-A.bfU.prototype={
-$2(d,e){var x=null,w=$.Ig()[e],v=$.lT()[D.l.bE(e,20)],u=B.am(w,x,x,x,x,x,x,x,x),t=this.a
-return Q.aGl(new B.aJ(x,100,new A.XQ(1.7777777777777777,new B.lX(v,C.bVX,x),x),x),x,new A.bfP(t,w),t.x===w,M.op,x,C.a7L,u,x)},
-$S:z+1}
-A.bfP.prototype={
+A.bhD.prototype={
+$2(d,e){var x=null,w=$.Iv()[e],v=$.lW()[D.l.bG(e,20)],u=B.ao(w,x,x,x,x,x,x,x,x),t=this.a
+return Q.aHn(new B.aJ(x,100,new B.J0(1.7777777777777777,new B.m_(v,C.bWs,x),x),x),x,new A.bhy(t,w),t.x===w,M.ow,x,C.a84,u,x)},
+$S:z+0}
+A.bhy.prototype={
 $1(d){var x=this.a
-x.I(new A.bfM(x,d,this.b))},
+x.H(new A.bhv(x,d,this.b))},
 $S:3}
-A.bfM.prototype={
+A.bhv.prototype={
 $0(){if(this.b)this.a.x=this.c},
-$S:0};(function aliases(){var x=A.Wu.prototype
-x.aq5=x.n})();(function installTearOffs(){var x=a._instance_1u
-var w
-x(w=A.NT.prototype,"gc9","ca",0)
-x(w,"gcl","bX",0)
-x(w,"gcz","c6",0)
-x(w,"gcK","c5",0)})();(function inheritance(){var x=a.mixinHard,w=a.mixin,v=a.inheritMany,u=a.inherit
-v(B.a6,[A.Zd,A.Ze,A.YR,A.a8d,A.aeN])
-v(E.iq,[A.Jv,A.BT])
-v(B.z,[A.Eu,A.tp,A.tJ,A.tV,A.ud,A.uS,A.vt])
-v(B.E,[A.Wu,A.aqm,A.aqx,A.aqK,A.aqS,A.ar5,A.arC])
-u(A.alp,A.Wu)
-v(B.hD,[A.bb5,A.b73,A.bfS,A.bfT,A.bfU])
-v(B.f5,[A.bb4,A.bb2,A.bb1,A.bb0,A.aXZ,A.aXY,A.aY_,A.aY0,A.aY1,A.aY2,A.b1F,A.b1H,A.b4h,A.b4f,A.b4e,A.b4g,A.b4d,A.b4i,A.b4j,A.b76,A.b78,A.b79,A.b7d,A.b7e,A.b7f,A.b77,A.bb7,A.bfR,A.bfQ,A.bfP])
-v(B.x2,[A.alo,A.akJ])
-v(B.h4,[A.bb3,A.aXX,A.aXW,A.aXV,A.aXU,A.aXT,A.b1G,A.b1I,A.b1J,A.b1K,A.b1z,A.b1A,A.b1B,A.b1C,A.b1D,A.b1E,A.b1t,A.b1u,A.b1v,A.b1w,A.b1x,A.b1y,A.b1p,A.b1q,A.b1r,A.b1s,A.b4c,A.b49,A.b48,A.b4b,A.b4a,A.b74,A.b75,A.b72,A.b71,A.b70,A.b7a,A.b7c,A.b7_,A.b7b,A.b6Z,A.b6Y,A.b6X,A.b6W,A.bb6,A.bfO,A.bfN,A.bfM])
-u(A.NT,B.EM)
-u(A.XQ,B.bw)
-u(A.aeP,A.aqm)
-u(A.ag1,A.aqx)
-u(A.ahL,A.aqK)
-u(A.aiX,A.aqS)
-u(A.alr,A.ar5)
-u(A.aoL,A.arC)
-x(A.Wu,B.f1)
-w(A.aqm,B.ed)
-w(A.aqx,B.ed)
-w(A.aqK,B.ed)
-w(A.aqS,B.ed)
-w(A.ar5,B.ed)
-w(A.arC,B.ed)})()
-B.h0(b.typeUniverse,JSON.parse('{"Zd":{"a6":[],"d":[]},"Jv":{"iq":[]},"Ze":{"a6":[],"d":[]},"BT":{"iq":[]},"Eu":{"z":[],"d":[]},"alp":{"E":["Eu"]},"alo":{"ak":[]},"YR":{"a6":[],"d":[]},"NT":{"C":[],"ba":["C"],"v":[],"az":[]},"XQ":{"bw":[],"aF":[],"d":[]},"akJ":{"ak":[]},"a8d":{"a6":[],"d":[]},"tp":{"z":[],"d":[]},"aeP":{"E":["tp"]},"aeN":{"a6":[],"d":[]},"tJ":{"z":[],"d":[]},"ag1":{"E":["tJ"]},"tV":{"z":[],"d":[]},"ahL":{"E":["tV"]},"ud":{"z":[],"d":[]},"aiX":{"E":["ud"]},"uS":{"z":[],"d":[]},"alr":{"E":["uS"]},"vt":{"z":[],"d":[]},"aoL":{"E":["vt"]}}'))
-var y=(function rtii(){var x=B.Z
-return{k:x("ab"),G:x("q"),d:x("cZ<q>"),e:x("iq"),v:x("f7"),L:x("eV"),u:x("p<cZ<q>>"),P:x("p<iq>"),R:x("p<hH>"),g:x("p<j>"),F:x("p<jY>"),s:x("p<o>"),p:x("p<d>"),n:x("p<O>"),M:x("ar<xn>"),Z:x("a1<eV,cZ<eV>>"),E:x("fK")}})();(function constants(){var x=a.makeConstList
-C.a9C=new B.h2(1,1)
-C.aaw=new B.ab(0,48,0,230)
-C.ja=new B.ab(0,1/0,0,230)
-C.aax=new B.ab(0,1/0,0,330)
-C.aaA=new B.ab(0,230,0,1/0)
-C.aaG=new B.ab(130,1/0,0,1/0)
-C.bWc=new A.Eu(null,null)
-C.Cu=new B.aJ(20,null,null,null)
-C.bMu=B.a(x([C.bWc,C.Cu,S.a5P]),y.p)
-C.bWC=new B.jl(D.ah,D.G,D.N,D.L,null,D.D,null,C.bMu,null)
-C.bWt=new B.hc(C.bWC,null)
-C.acW=new G.b7(null,C.bWt,"// indeterminate progress bar\nProgressBar(),\n\n// indeterminate progress ring\nProgressRing(),",null,null)
-C.a90=new A.aeN(null)
-C.a9y=new B.Bd(null,null,null,null,null,null,0,null)
-C.bT0=new B.ag(D.f4,C.a9y,null)
-C.bW9=new B.lx(0,0,0,0,null,null,C.bT0,null)
-C.aW3=B.a(x([C.a90,C.bW9]),y.p)
-C.bYO=new B.d7(D.b4,null,D.b5,D.a1,C.aW3,null)
-C.bYA=new B.aJ(500,300,C.bYO,null)
-C.acZ=new P.J9(C.bYA,D.f4,null,null,null,D.cp,null)
-C.aeV=new A.YR(null)
-C.agd=new B.q(4282735204)
-C.aUE=new B.bK(H.Ia,null,null,null,null)
-C.ahQ=new E.Jw(C.aUE,U.dA,null,null)
-C.yb=new A.BT(D.ah,null)
-C.dl=new A.BT(D.as,null)
-C.FO=new B.m_(D.ah,null,null)
-C.ajQ=new B.at(3,6,3,6)
-C.ajU=new B.at(6,4,6,4)
-C.aUH=new B.bK(H.ID,null,null,null,null)
-C.aUL=new B.bK(H.Ic,null,null,null,null)
-C.aUM=new B.bK(H.Ik,null,null,null,null)
-C.aUK=new B.bK(H.Io,null,null,null,null)
-C.aUP=new B.bK(H.Iv,null,null,null,null)
-C.aUQ=new B.bK(H.Iw,null,null,null,null)
-C.oc=new B.bK(H.Ig,null,null,null,null)
-C.aUT=new B.bK(R.z6,null,null,null,null)
-C.IS=new B.bK(H.If,null,null,null,null)
-C.aVc=new B.bK(R.z7,null,null,null,null)
-C.bKT=B.a(x([I.lM,I.J4,I.aVr,I.aVs]),B.Z("p<eV>"))
-C.aUW=new B.bK(H.IF,14,null,null,null)
-C.bSZ=new B.ag(D.yt,C.aUW,null)
-C.c3x=new B.y("Expander",null,null,null,null,null,null,null,null,null)
-C.bT8=new B.fu(C.c3x,null,null)
-C.c4i=new B.y("InfoBar",null,null,null,null,null,null,null,null,null)
-C.bTe=new B.fu(C.c4i,null,null)
-C.c6o=new B.y("Acrylic",null,null,null,null,null,null,null,null,null)
-C.bTf=new B.fu(C.c6o,null,null)
-C.c6p=new B.y("Tiles",null,null,null,null,null,null,null,null,null)
-C.bTk=new B.fu(C.c6p,null,null)
-C.c5n=new B.y("Progress controls",null,null,null,null,null,null,null,null,null)
-C.bTn=new B.fu(C.c5n,null,null)
-C.bVX=new A.a8d(null)
-C.c3u=new B.y("A closable InfoBar with options to change its severity",null,null,null,null,null,null,null,null,null)
-C.c3z=new B.y("End-aligned command bar with permanent secondary items (dynamic overflow)",null,null,null,null,null,null,null,null,null)
-C.c3E=new B.y("Use an InfoBar control when a user should be informed of, acknowledge, or take action on a changed application state. By default the notification will remain in the content area until closed by the user but will not necessarily break user flow.",null,null,null,null,null,null,null,null,null)
-C.c3F=new B.y("Custom acrylic brush.",null,null,null,null,null,null,null,null,null)
-C.c3W=new B.y("Default background acrylic brush.",null,null,null,null,null,null,null,null,null)
-C.c48=new B.y("This text is in content",null,null,null,null,null,null,null,null,null)
-C.c49=new B.y("Backward",null,null,null,null,null,null,null,null,null)
-C.c4b=new B.y("A fluent-styled list tile. Usually used inside a ListView",null,null,null,null,null,null,null,null,null)
-C.c4e=new B.y("A progress control provides feedback to the user that a long-running operation is underway. It can mean that the user cannot interact with the app when the progress indicator is visible, and can also indicate how long the wait time might be, depending on the indicator used.",null,null,null,null,null,null,null,null,null)
-C.c4k=new B.y("The indeterminate state shows that an operation is underway and its completion time is unknown.",null,null,null,null,null,null,null,null,null)
-C.c4o=new B.y("Carded complex command bar with many items (vertical scrolling) (vertical)",null,null,null,null,null,null,null,null,null)
-C.c4n=new B.y("Expander opened programatically",null,null,null,null,null,null,null,null,null)
-C.c4x=new B.y("The Expander control lets you show or hide less important content that's related to a piece of primary content that's always visible. Items contained in the Header are always visible. The user can expand and collapse the Content area, where secondary content is displayed, by interacting with the header. When the content area is expanded, it pushes other UI elements out of the way; it does not overlay other UI. The Expander can expand upwards or downwards.\n\nBoth the Header and Content areas can contain any content, from simple text to complex UI layouts. For example, you can use the control to show additional options for an item.\n\nUse an Expander when some primary content should always be visible, but related secondary content may be hidden until needed. This UI is commonly used when display space is limited and when information or options can be grouped together. Hiding the secondary content until it's needed can also help to focus the user on the most important parts of your app.",null,null,null,null,null,null,null,null,null)
-C.c4C=new B.y("ListViewItems with images",null,null,null,null,null,null,null,null,null)
-C.c4J=new B.y("Carded complex command bar with many items (dynamic overflow)",null,null,null,null,null,null,null,null,null)
-C.c4L=new B.y("You can not do that :/",null,null,null,null,null,null,null,null,null)
-C.a7H=new B.y("Forward",null,null,null,null,null,null,null,null,null)
-C.c4N=new B.y("Acrylic background",null,null,null,null,null,null,null,null,null)
-C.c4R=new B.y("ListViewItems with many properties applied",null,null,null,null,null,null,null,null,null)
-C.a7I=new B.y("Title",null,null,null,null,null,null,null,null,null)
-C.c4V=new B.y("Determinate Progress Indicators",null,null,null,null,null,null,null,null,null)
-C.c4X=new B.y("Is long",null,null,null,null,null,null,null,null,null)
-C.c51=new B.y("Basic ListView with selectable tiles",null,null,null,null,null,null,null,null,null)
-C.c53=new B.y("Command bar with secondary items (wrapping)",null,null,null,null,null,null,null,null,null)
-C.c5d=new B.y("Add Favorite",null,null,null,null,null,null,null,null,null)
-C.c5k=new B.y("Has action button",null,null,null,null,null,null,null,null,null)
-C.c5x=new B.y("Pin",null,null,null,null,null,null,null,null,null)
-C.c5z=new B.y("Is icon visible",null,null,null,null,null,null,null,null,null)
-C.c5D=new B.y("Reply All",null,null,null,null,null,null,null,null,null)
-C.c5M=new B.y("Reject",null,null,null,null,null,null,null,null,null)
-C.c5V=new B.y("Choose your crost",null,null,null,null,null,null,null,null,null)
-C.c5W=new B.y("Archive",null,null,null,null,null,null,null,null,null)
-C.c65=new B.y("Carded compact command bar with many items (dynamic overflow) (vertical)",null,null,null,null,null,null,null,null,null)
-C.c67=new B.y("Carded compact command bar with many items (clipped) (vertical)",null,null,null,null,null,null,null,null,null)
-C.c6a=new B.y("Command bar with many items (wrapping, auto-compact < 600px) (vertical)",null,null,null,null,null,null,null,null,null)
-C.c6g=new B.y("Unpin",null,null,null,null,null,null,null,null,null)
-C.a7L=new B.y("With a custom subtitle",null,null,null,null,null,null,null,null,null)
-C.c6i=new B.y("Open to see the scrollable text",null,null,null,null,null,null,null,null,null)
-C.c6u=new B.y("End-aligned command bar with many items (dynamic overflow, auto-compact < 900px)",null,null,null,null,null,null,null,null,null)
-C.c6w=new B.y("CommandBar",null,null,null,null,null,null,null,null,null)
-C.c6z=new B.y("Simple command bar (no wrapping) (vertical)",null,null,null,null,null,null,null,null,null)
-C.c6H=new B.y("Show InfoBar",null,null,null,null,null,null,null,null,null)
-C.c6K=new B.y("Essential app message for your users to be informed of, acknowledge, or take action on.",null,null,null,null,null,null,null,null,null)
-C.c6N=new B.y("Command bars provide users with easy access to your app's most common tasks. Command bars can provide access to app-level or page-specific commands and can be used with any navigation pattern.",null,null,null,null,null,null,null,null,null)
-C.c6P=new B.y("A InfoBar as a popup",null,null,null,null,null,null,null,null,null)
-C.c6X=new B.y("End-aligned command bar with many items (dynamic overflow, auto-compact < 900px) (vertical)",null,null,null,null,null,null,null,null,null)
-C.c6Z=new B.y("Tint color               ",null,null,null,null,null,null,null,null,null)
-C.c71=new B.y("Simple command bar (no wrapping)",null,null,null,null,null,null,null,null,null)
-C.c72=new B.y("Move",null,null,null,null,null,null,null,null,null)
-C.c73=new B.y("Carded compact command bar with many items (clipped)",null,null,null,null,null,null,null,null,null)
-C.c76=new B.y("A translucent material recommended for panel backgrounds. Acrylic is a type of Brush that creates a translucent texture. You can apply acrylic to app surfaces to add depth and help establish a visual hierarchy.",null,null,null,null,null,null,null,null,null)
-C.c75=new B.y("Carded complex command bar with many items (horizontal scrolling)",null,null,null,null,null,null,null,null,null)
-C.c7a=new B.y("Accept",null,null,null,null,null,null,null,null,null)
-C.c7c=new B.y("Simple expander",null,null,null,null,null,null,null,null,null)
-C.c7e=new B.y("End-aligned command bar with permanent secondary items (dynamic overflow) (vertical)",null,null,null,null,null,null,null,null,null)
-C.c7i=new B.y("New",null,null,null,null,null,null,null,null,null)
-C.c7q=new B.y("A proper warning message of why the user can not do that :/",null,null,null,null,null,null,null,null,null)
-C.c7s=new B.y("Scrollable content",null,null,null,null,null,null,null,null,null)
-C.c7t=new B.y("This text is in header",null,null,null,null,null,null,null,null,null)
-C.c7u=new B.y("Carded compact command bar with many items (dynamic overflow)",null,null,null,null,null,null,null,null,null)
-C.c7y=new B.y("The determinate state shows the percentage completed of a task. This should be used during an operation whose duration is known, but its progress should not block the user's interaction with the app.",null,null,null,null,null,null,null,null,null)
-C.c7B=new B.y("Command bar with many items (wrapping, auto-compact < 600px)",null,null,null,null,null,null,null,null,null)
-C.c7J=new B.y("Command bar with secondary items (wrapping) (vertical)",null,null,null,null,null,null,null,null,null)
-C.c7P=new B.y("In this example, the trailing vanishes when the expander is open.",null,null,null,null,null,null,null,null,null)
-C.c7R=new B.y("Action",null,null,null,null,null,null,null,null,null)
-C.c7Z=new B.y("Indeterminate Progress Indicators",null,null,null,null,null,null,null,null,null)
-C.a7T=new B.y("Is open",null,null,null,null,null,null,null,null,null)
-C.c86=new B.y("A closable InfoBar with a long and short message and action button",null,null,null,null,null,null,null,null,null)
-C.c87=new B.y("Carded complex command bar with many items (dynamic overflow) (vertical)",null,null,null,null,null,null,null,null,null)})();(function lazyInitializers(){var x=a.lazy
-x($,"c3g","Ig",()=>B.a("Kendall\nCollins\nAdatum Corporation\nHenry\nRoss\nAdventure Works Cycles\nVance\nDeLeon\nAlpine Ski House\nVictoria\nBurke\nBellows College\nAmber\nRodriguez\nBest For You Organics Company\nAmari\nRivera\nContoso, Ltd.\nJessie\nIrwin\nContoso Pharmaceuticals\nQuinn\nCampbell\nContoso Suites\nOlivia\nWilson\nConsolidated Messenger\nAna\nBowman\nFabrikam, Inc.\nShawn\nHughes\nFabrikam Residences\nOscar\nWard\nFirst Up Consultants\nMadison\nButler\nFourth Coffee\nGraham\nBarnes\nGraphic Design Institute\nAnthony\nIvanov\nHumongous Insurance\nMichael\nPeltier\nLamna Healthcare Company\nMorgan\nConnors\nLiberty's Delightful Sinful Bakery & Cafe\nAndre\nLawson\nLucerne Publishing\nPreston\nMorales\nMargie's Travel\nBriana\nHernandez\nNod Publishers\nNicole\nWagner\nNorthwind Traders\nMario\nRogers\nProseware, Inc.\nEugenia\nLopez\nRelecloud\nNathan\nRigby\nSchool of Fine Art\nEllis\nTurner\nSouthridge Video\nMiguel\nReyes\nTailspin Toys\nHayden\nCook\nTailwind Traders".split("\n"),y.s))})()};
+$S:0};(function aliases(){var x=A.Xa.prototype
+x.aqZ=x.n})();(function inheritance(){var x=a.mixinHard,w=a.mixin,v=a.inheritMany,u=a.inherit
+v(B.a3,[A.ZU,A.ZV,A.Zw,A.a8Y,A.afz])
+v(E.iu,[A.JM,A.C8])
+v(B.z,[A.EI,A.tA,A.tT,A.u3,A.uo,A.v3,A.vF])
+v(B.F,[A.Xa,A.ari,A.art,A.arH,A.arP,A.as2,A.asA])
+u(A.amj,A.Xa)
+v(B.hH,[A.bcO,A.b8L,A.bhB,A.bhC,A.bhD])
+v(B.fa,[A.bcN,A.bcL,A.bcK,A.bcJ,A.aZD,A.aZC,A.aZE,A.aZF,A.aZG,A.aZH,A.b3n,A.b3p,A.b5Z,A.b5X,A.b5W,A.b5Y,A.b5V,A.b6_,A.b60,A.b8O,A.b8Q,A.b8R,A.b8V,A.b8W,A.b8X,A.b8P,A.bcQ,A.bhA,A.bhz,A.bhy])
+v(B.xe,[A.ami,A.alD])
+v(B.h4,[A.bcM,A.aZB,A.aZA,A.aZz,A.aZy,A.aZx,A.b3o,A.b3q,A.b3r,A.b3s,A.b3h,A.b3i,A.b3j,A.b3k,A.b3l,A.b3m,A.b3b,A.b3c,A.b3d,A.b3e,A.b3f,A.b3g,A.b37,A.b38,A.b39,A.b3a,A.b5U,A.b5R,A.b5Q,A.b5T,A.b5S,A.b8M,A.b8N,A.b8K,A.b8J,A.b8I,A.b8S,A.b8U,A.b8H,A.b8T,A.b8G,A.b8F,A.b8E,A.b8D,A.bcP,A.bhx,A.bhw,A.bhv])
+u(A.afB,A.ari)
+u(A.agQ,A.art)
+u(A.aiA,A.arH)
+u(A.ajM,A.arP)
+u(A.aml,A.as2)
+u(A.apG,A.asA)
+x(A.Xa,B.eR)
+w(A.ari,B.eg)
+w(A.art,B.eg)
+w(A.arH,B.eg)
+w(A.arP,B.eg)
+w(A.as2,B.eg)
+w(A.asA,B.eg)})()
+B.h0(b.typeUniverse,JSON.parse('{"ZU":{"a3":[],"d":[]},"JM":{"iu":[]},"ZV":{"a3":[],"d":[]},"C8":{"iu":[]},"EI":{"z":[],"d":[]},"amj":{"F":["EI"]},"ami":{"ah":[]},"Zw":{"a3":[],"d":[]},"alD":{"ah":[]},"a8Y":{"a3":[],"d":[]},"tA":{"z":[],"d":[]},"afB":{"F":["tA"]},"afz":{"a3":[],"d":[]},"tT":{"z":[],"d":[]},"agQ":{"F":["tT"]},"u3":{"z":[],"d":[]},"aiA":{"F":["u3"]},"uo":{"z":[],"d":[]},"ajM":{"F":["uo"]},"v3":{"z":[],"d":[]},"aml":{"F":["v3"]},"vF":{"z":[],"d":[]},"apG":{"F":["vF"]}}'))
+var y=(function rtii(){var x=B.a_
+return{G:x("q"),d:x("d2<q>"),k:x("iu"),L:x("eY"),u:x("p<d2<q>>"),P:x("p<iu>"),R:x("p<hM>"),g:x("p<i>"),F:x("p<k4>"),s:x("p<o>"),p:x("p<d>"),n:x("p<N>"),M:x("aq<xz>"),Z:x("a2<eY,d2<eY>>"),E:x("fL")}})();(function constants(){var x=a.makeConstList
+C.a9V=new B.h2(1,1)
+C.aaO=new B.ad(0,48,0,230)
+C.jh=new B.ad(0,1/0,0,230)
+C.aaP=new B.ad(0,1/0,0,330)
+C.aaS=new B.ad(0,230,0,1/0)
+C.aaY=new B.ad(130,1/0,0,1/0)
+C.bWJ=new A.EI(null,null)
+C.CJ=new B.aJ(20,null,null,null)
+C.bMU=B.a(x([C.bWJ,C.CJ,S.a68]),y.p)
+C.bX8=new B.jr(D.a4,D.G,D.N,D.L,null,D.D,null,C.bMU,null)
+C.bX_=new B.he(C.bX8,null)
+C.adc=new G.b8(null,C.bX_,"// indeterminate progress bar\nProgressBar(),\n\n// indeterminate progress ring\nProgressRing(),",null,null)
+C.a9i=new A.afz(null)
+C.a9R=new B.Bu(null,null,null,null,null,null,0,null)
+C.bTv=new B.ag(D.f8,C.a9R,null)
+C.bWF=new B.lC(0,0,0,0,null,null,C.bTv,null)
+C.aWt=B.a(x([C.a9i,C.bWF]),y.p)
+C.bZm=new B.da(D.b4,null,D.b5,D.a1,C.aWt,null)
+C.bZ8=new B.aJ(500,300,C.bZm,null)
+C.adf=new P.Jp(C.bZ8,D.f8,null,null,null,D.cq,null)
+C.afc=new A.Zw(null)
+C.agw=new B.q(4282735204)
+C.aV_=new B.bG(H.Iu,null,null,null,null)
+C.ai7=new E.JN(C.aV_,U.dC,null,null)
+C.yo=new A.C8(D.a4,null)
+C.dm=new A.C8(D.ar,null)
+C.G8=new B.m2(D.a4,null,null)
+C.ak8=new B.au(3,6,3,6)
+C.akc=new B.au(6,4,6,4)
+C.aV2=new B.bG(H.IX,null,null,null,null)
+C.aV7=new B.bG(H.Iw,null,null,null,null)
+C.aV8=new B.bG(H.IE,null,null,null,null)
+C.aV6=new B.bG(H.II,null,null,null,null)
+C.aVb=new B.bG(H.IP,null,null,null,null)
+C.aVd=new B.bG(H.IQ,null,null,null,null)
+C.oj=new B.bG(H.IA,null,null,null,null)
+C.aVg=new B.bG(R.zj,null,null,null,null)
+C.Jc=new B.bG(H.Iz,null,null,null,null)
+C.aVA=new B.bG(R.zk,null,null,null,null)
+C.bLi=B.a(x([I.lQ,I.Jn,I.aVP,I.aVQ]),B.a_("p<eY>"))
+C.aVj=new B.bG(H.IZ,14,null,null,null)
+C.bTt=new B.ag(D.yF,C.aVj,null)
+C.c47=new B.y("Expander",null,null,null,null,null,null,null,null,null)
+C.bTD=new B.fw(C.c47,null,null)
+C.c4T=new B.y("InfoBar",null,null,null,null,null,null,null,null,null)
+C.bTJ=new B.fw(C.c4T,null,null)
+C.c6Z=new B.y("Acrylic",null,null,null,null,null,null,null,null,null)
+C.bTK=new B.fw(C.c6Z,null,null)
+C.c7_=new B.y("Tiles",null,null,null,null,null,null,null,null,null)
+C.bTP=new B.fw(C.c7_,null,null)
+C.c5Y=new B.y("Progress controls",null,null,null,null,null,null,null,null,null)
+C.bTS=new B.fw(C.c5Y,null,null)
+C.bWs=new A.a8Y(null)
+C.c44=new B.y("A closable InfoBar with options to change its severity",null,null,null,null,null,null,null,null,null)
+C.c49=new B.y("End-aligned command bar with permanent secondary items (dynamic overflow)",null,null,null,null,null,null,null,null,null)
+C.c4e=new B.y("Use an InfoBar control when a user should be informed of, acknowledge, or take action on a changed application state. By default the notification will remain in the content area until closed by the user but will not necessarily break user flow.",null,null,null,null,null,null,null,null,null)
+C.c4f=new B.y("Custom acrylic brush.",null,null,null,null,null,null,null,null,null)
+C.c4w=new B.y("Default background acrylic brush.",null,null,null,null,null,null,null,null,null)
+C.c4J=new B.y("This text is in content",null,null,null,null,null,null,null,null,null)
+C.c4K=new B.y("Backward",null,null,null,null,null,null,null,null,null)
+C.c4M=new B.y("A fluent-styled list tile. Usually used inside a ListView",null,null,null,null,null,null,null,null,null)
+C.c4P=new B.y("A progress control provides feedback to the user that a long-running operation is underway. It can mean that the user cannot interact with the app when the progress indicator is visible, and can also indicate how long the wait time might be, depending on the indicator used.",null,null,null,null,null,null,null,null,null)
+C.c4V=new B.y("The indeterminate state shows that an operation is underway and its completion time is unknown.",null,null,null,null,null,null,null,null,null)
+C.c4Z=new B.y("Carded complex command bar with many items (vertical scrolling) (vertical)",null,null,null,null,null,null,null,null,null)
+C.c4Y=new B.y("Expander opened programatically",null,null,null,null,null,null,null,null,null)
+C.c57=new B.y("The Expander control lets you show or hide less important content that's related to a piece of primary content that's always visible. Items contained in the Header are always visible. The user can expand and collapse the Content area, where secondary content is displayed, by interacting with the header. When the content area is expanded, it pushes other UI elements out of the way; it does not overlay other UI. The Expander can expand upwards or downwards.\n\nBoth the Header and Content areas can contain any content, from simple text to complex UI layouts. For example, you can use the control to show additional options for an item.\n\nUse an Expander when some primary content should always be visible, but related secondary content may be hidden until needed. This UI is commonly used when display space is limited and when information or options can be grouped together. Hiding the secondary content until it's needed can also help to focus the user on the most important parts of your app.",null,null,null,null,null,null,null,null,null)
+C.c5c=new B.y("ListViewItems with images",null,null,null,null,null,null,null,null,null)
+C.c5j=new B.y("Carded complex command bar with many items (dynamic overflow)",null,null,null,null,null,null,null,null,null)
+C.c5l=new B.y("You can not do that :/",null,null,null,null,null,null,null,null,null)
+C.a80=new B.y("Forward",null,null,null,null,null,null,null,null,null)
+C.c5n=new B.y("Acrylic background",null,null,null,null,null,null,null,null,null)
+C.c5r=new B.y("ListViewItems with many properties applied",null,null,null,null,null,null,null,null,null)
+C.a81=new B.y("Title",null,null,null,null,null,null,null,null,null)
+C.c5v=new B.y("Determinate Progress Indicators",null,null,null,null,null,null,null,null,null)
+C.c5x=new B.y("Is long",null,null,null,null,null,null,null,null,null)
+C.c5C=new B.y("Basic ListView with selectable tiles",null,null,null,null,null,null,null,null,null)
+C.c5E=new B.y("Command bar with secondary items (wrapping)",null,null,null,null,null,null,null,null,null)
+C.c5O=new B.y("Add Favorite",null,null,null,null,null,null,null,null,null)
+C.c5V=new B.y("Has action button",null,null,null,null,null,null,null,null,null)
+C.c67=new B.y("Pin",null,null,null,null,null,null,null,null,null)
+C.c69=new B.y("Is icon visible",null,null,null,null,null,null,null,null,null)
+C.c6d=new B.y("Reply All",null,null,null,null,null,null,null,null,null)
+C.c6m=new B.y("Reject",null,null,null,null,null,null,null,null,null)
+C.c6v=new B.y("Choose your crost",null,null,null,null,null,null,null,null,null)
+C.c6w=new B.y("Archive",null,null,null,null,null,null,null,null,null)
+C.c6G=new B.y("Carded compact command bar with many items (dynamic overflow) (vertical)",null,null,null,null,null,null,null,null,null)
+C.c6I=new B.y("Carded compact command bar with many items (clipped) (vertical)",null,null,null,null,null,null,null,null,null)
+C.c6L=new B.y("Command bar with many items (wrapping, auto-compact < 600px) (vertical)",null,null,null,null,null,null,null,null,null)
+C.c6R=new B.y("Unpin",null,null,null,null,null,null,null,null,null)
+C.a84=new B.y("With a custom subtitle",null,null,null,null,null,null,null,null,null)
+C.c6T=new B.y("Open to see the scrollable text",null,null,null,null,null,null,null,null,null)
+C.c74=new B.y("End-aligned command bar with many items (dynamic overflow, auto-compact < 900px)",null,null,null,null,null,null,null,null,null)
+C.c76=new B.y("CommandBar",null,null,null,null,null,null,null,null,null)
+C.c79=new B.y("Simple command bar (no wrapping) (vertical)",null,null,null,null,null,null,null,null,null)
+C.c7h=new B.y("Show InfoBar",null,null,null,null,null,null,null,null,null)
+C.c7k=new B.y("Essential app message for your users to be informed of, acknowledge, or take action on.",null,null,null,null,null,null,null,null,null)
+C.c7n=new B.y("Command bars provide users with easy access to your app's most common tasks. Command bars can provide access to app-level or page-specific commands and can be used with any navigation pattern.",null,null,null,null,null,null,null,null,null)
+C.c7p=new B.y("A InfoBar as a popup",null,null,null,null,null,null,null,null,null)
+C.c7x=new B.y("End-aligned command bar with many items (dynamic overflow, auto-compact < 900px) (vertical)",null,null,null,null,null,null,null,null,null)
+C.c7z=new B.y("Tint color               ",null,null,null,null,null,null,null,null,null)
+C.c7C=new B.y("Simple command bar (no wrapping)",null,null,null,null,null,null,null,null,null)
+C.c7D=new B.y("Move",null,null,null,null,null,null,null,null,null)
+C.c7E=new B.y("Carded compact command bar with many items (clipped)",null,null,null,null,null,null,null,null,null)
+C.c7H=new B.y("A translucent material recommended for panel backgrounds. Acrylic is a type of Brush that creates a translucent texture. You can apply acrylic to app surfaces to add depth and help establish a visual hierarchy.",null,null,null,null,null,null,null,null,null)
+C.c7G=new B.y("Carded complex command bar with many items (horizontal scrolling)",null,null,null,null,null,null,null,null,null)
+C.c7L=new B.y("Accept",null,null,null,null,null,null,null,null,null)
+C.c7N=new B.y("Simple expander",null,null,null,null,null,null,null,null,null)
+C.c7P=new B.y("End-aligned command bar with permanent secondary items (dynamic overflow) (vertical)",null,null,null,null,null,null,null,null,null)
+C.c7T=new B.y("New",null,null,null,null,null,null,null,null,null)
+C.c80=new B.y("A proper warning message of why the user can not do that :/",null,null,null,null,null,null,null,null,null)
+C.c82=new B.y("Scrollable content",null,null,null,null,null,null,null,null,null)
+C.c83=new B.y("This text is in header",null,null,null,null,null,null,null,null,null)
+C.c84=new B.y("Carded compact command bar with many items (dynamic overflow)",null,null,null,null,null,null,null,null,null)
+C.c88=new B.y("The determinate state shows the percentage completed of a task. This should be used during an operation whose duration is known, but its progress should not block the user's interaction with the app.",null,null,null,null,null,null,null,null,null)
+C.c8b=new B.y("Command bar with many items (wrapping, auto-compact < 600px)",null,null,null,null,null,null,null,null,null)
+C.c8j=new B.y("Command bar with secondary items (wrapping) (vertical)",null,null,null,null,null,null,null,null,null)
+C.c8p=new B.y("In this example, the trailing vanishes when the expander is open.",null,null,null,null,null,null,null,null,null)
+C.c8r=new B.y("Action",null,null,null,null,null,null,null,null,null)
+C.c8z=new B.y("Indeterminate Progress Indicators",null,null,null,null,null,null,null,null,null)
+C.a8c=new B.y("Is open",null,null,null,null,null,null,null,null,null)
+C.c8H=new B.y("A closable InfoBar with a long and short message and action button",null,null,null,null,null,null,null,null,null)
+C.c8I=new B.y("Carded complex command bar with many items (dynamic overflow) (vertical)",null,null,null,null,null,null,null,null,null)})();(function lazyInitializers(){var x=a.lazy
+x($,"c5x","Iv",()=>B.a("Kendall\nCollins\nAdatum Corporation\nHenry\nRoss\nAdventure Works Cycles\nVance\nDeLeon\nAlpine Ski House\nVictoria\nBurke\nBellows College\nAmber\nRodriguez\nBest For You Organics Company\nAmari\nRivera\nContoso, Ltd.\nJessie\nIrwin\nContoso Pharmaceuticals\nQuinn\nCampbell\nContoso Suites\nOlivia\nWilson\nConsolidated Messenger\nAna\nBowman\nFabrikam, Inc.\nShawn\nHughes\nFabrikam Residences\nOscar\nWard\nFirst Up Consultants\nMadison\nButler\nFourth Coffee\nGraham\nBarnes\nGraphic Design Institute\nAnthony\nIvanov\nHumongous Insurance\nMichael\nPeltier\nLamna Healthcare Company\nMorgan\nConnors\nLiberty's Delightful Sinful Bakery & Cafe\nAndre\nLawson\nLucerne Publishing\nPreston\nMorales\nMargie's Travel\nBriana\nHernandez\nNod Publishers\nNicole\nWagner\nNorthwind Traders\nMario\nRogers\nProseware, Inc.\nEugenia\nLopez\nRelecloud\nNathan\nRigby\nSchool of Fine Art\nEllis\nTurner\nSouthridge Video\nMiguel\nReyes\nTailspin Toys\nHayden\nCook\nTailwind Traders".split("\n"),y.s))})()};
 ((a,b)=>{a[b]=a.current
-a.eventLog.push({p:"main.dart.js_31",e:"endPart",h:b})})($__dart_deferred_initializers__,"qU5IboelnXFChfXSqGvynuSPFSY=");
+a.eventLog.push({p:"main.dart.js_31",e:"endPart",h:b})})($__dart_deferred_initializers__,"p0pqov3MvsICkG6oszW6QD8DCNg=");
