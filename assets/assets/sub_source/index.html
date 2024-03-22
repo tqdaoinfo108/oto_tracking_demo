@@ -1,53 +1,14 @@
 <!doctype html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8" />
-  <link rel="icon" type="image/svg+xml" href="./vite.svg" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vite + React + TS</title>
-
-  <link rel="stylesheet" href="./assets/index-CllH30Li.css">
-</head>
-
-<body>
-  <button  type="button" id="testBtn">Show</button>
-  <div id="root"></div>
-  <script src="./assets/index-CLqsrxTN.js"></script>
-
-  <script>
-    function buttonClick(e) {
-      event.preventDefault();
-      window.top.postMessage({
-      "action": "capturePort",
-      "port": 'assets/sub_source/index.html'
-    }, '*');
-      
-    }
-
-    document.getElementById('testBtn').addEventListener('click', buttonClick, false);
-
-
-    // variable that will represents the port used to communicate with the Dart side
-    var port;
-    // listen for messages
-    window.addEventListener('message', function(event) {
-      console.log(event);
-        if (event.data == 'capturePort') {
-            // capture port2 coming from the Dart side
-            if (event.ports[0] != null) {
-                // the port is ready for communication,
-                // so you can use port.postMessage(message); wherever you want
-                port = event.ports[0];
-                // To listen to messages coming from the Dart side, set the onmessage event listener
-                port.onmessage = function (event) {
-                    // event.data contains the message data coming from the Dart side
-                    console.log(event.data);
-                };
-            }
-        }
-    }, false);
-  </script>
-</body>
-
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Vite + React + TS</title>
+    <script type="module" crossorigin src="./assets/index-Dwf-AH8i.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-CllH30Li.css">
+  </head>
+  <body>
+    <div id="root"></div>
+  </body>
 </html>
