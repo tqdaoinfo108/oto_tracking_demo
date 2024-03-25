@@ -1,0 +1,1 @@
+import{r as p,_ as t,t as d,a as n,c as i,P as a}from"./index-CUEJ-SD2.js";var s=p.forwardRef(function(r,e){var c=r.children,l=r.className,o=t(r,["children","className"]);return d.createElement("div",n({className:i("card-group",l)},o,{ref:e}),c)});s.propTypes={children:a.node,className:a.string};s.displayName="CCardGroup";export{s as C};
